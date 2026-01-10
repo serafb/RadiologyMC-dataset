@@ -1,0 +1,248 @@
+{
+    "quiz_title": "Abdominal-X-Ray-Quiz-1",
+    "base_url": "https://www.radiologymasterclass.co.uk/quizzes/abdominal_x-ray-quiz_1",
+    "base_image_url": "https://www.radiologymasterclass.co.uk/images/quizzes/Quiz-Abdominal-1",
+    "total_questions": 10,
+    "questions": [
+        {
+            "number": 1,
+            "question": "Patient with abdominal pain and vomiting. What is the radiological diagnosis?",
+            "options": [
+                "Caecal volvulus",
+                "Large bowel obstruction",
+                "Small bowel obstruction",
+                "Bowel perforation",
+                "Normal"
+            ],
+            "options_count": 5,
+            "correct_answer": "Large bowel obstruction",
+            "learning_points": "Dilated loops of small and large bowel are visible indicating large bowel obstruction and reflux of gas from the large to the small bowel via an incompetent ileocaecal valve.\nThe red arrows show the course of the large bowel to a point (?) beyond which no gas has passed. This is the level of obstruction.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_1.jpg": "Abdominal_X_Ray_Quiz_1\\question_1\\question_1.jpg",
+                    "question_1_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_1\\question_1_big.jpg",
+                    "question_1_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_1\\question_1_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "question": "What is the radiological diagnosis?",
+            "options": [
+                "Sigmoid volvulus",
+                "Normal",
+                "Ascites",
+                "Small bowel obstruction",
+                "Pneumoperitoneum"
+            ],
+            "options_count": 5,
+            "correct_answer": "Ascites",
+            "learning_points": "Loops of gas-filled bowel are not dilated but seem to be clumped centrally in the abdomen. Elsewhere there is hazy increased density. These are the typical X-ray appearances of ascites.\nAlthough ascites can be diagnosed clinically, and is best confirmed with Ultrasound, occasionally the diagnosis is first suggested by a plain abdominal X-ray.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_2.jpg": "Abdominal_X_Ray_Quiz_1\\question_2\\question_2.jpg",
+                    "question_2_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_2\\question_2_big.jpg",
+                    "question_2_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_2\\question_2_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "question": "What is the cause of the abnormal calcification in this image?",
+            "options": [
+                "Calcified gallstones",
+                "Calcified mesenteric lymph nodes",
+                "Pancreatic calcification",
+                "Malignant calcification",
+                "Calcified uterine fibroid"
+            ],
+            "options_count": 5,
+            "correct_answer": "Pancreatic calcification",
+            "learning_points": "Calcification of the pancreas is a feature of chronic pancreatitis.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_3.jpg": "Abdominal_X_Ray_Quiz_1\\question_3\\question_3.jpg",
+                    "question_3_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_3\\question_3_big.jpg",
+                    "question_3_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_3\\question_3_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "question": "Patient with abdominal pain, vomiting, and constipation. What is the radiological diagnosis?",
+            "options": [
+                "Caecal volvulus",
+                "Sigmoid volvulus",
+                "Small bowel obstruction",
+                "Perforation",
+                "Normal"
+            ],
+            "options_count": 5,
+            "correct_answer": "Caecal volvulus",
+            "learning_points": "The large bowel is massively dilated, the caecal pole is displaced and the right iliac fossa (RIF) is devoid of bowel gas. These are typical appearances of caecal volvulus.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_4.jpg": "Abdominal_X_Ray_Quiz_1\\question_4\\question_4.jpg",
+                    "question_4_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_4\\question_4_big.jpg",
+                    "question_4_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_4\\question_4_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "question": "What is the cause of the area of increased density in the pelvis?",
+            "options": [
+                "Calcified pelvic kidney",
+                "Calcified abdominal lymph node",
+                "Calcified uterine fibroid",
+                "Ingested barium",
+                "Calcified adrenal gland"
+            ],
+            "options_count": 5,
+            "correct_answer": "Calcified uterine fibroid",
+            "learning_points": "A calcified uterine fibroid is an occasional incidental finding on abdominal X-rays of female patients.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_5.jpg": "Abdominal_X_Ray_Quiz_1\\question_5\\question_5.jpg",
+                    "question_5_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_5\\question_5_big.jpg",
+                    "question_5_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_5\\question_5_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "question": "History of abdominal surgery 7 years ago. Presented with a 24 hour history of severe abdominal pain and vomiting. What is the radiological diagnosis?",
+            "options": [
+                "Small bowel obstruction",
+                "Post-operative ileus",
+                "Normal",
+                "Perforation",
+                "Sigmoid volvulus"
+            ],
+            "options_count": 5,
+            "correct_answer": "Small bowel obstruction",
+            "learning_points": "This image shows multiple loops of dilated small bowel indicating small bowel obstruction. It is possible to determine this is small bowel dilatation as the valvulae conniventes are clearly visible and the distended loops are located centrally.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_6.jpg": "Abdominal_X_Ray_Quiz_1\\question_6\\question_6.jpg",
+                    "question_6_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_6\\question_6_big.jpg",
+                    "question_6_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_6\\question_6_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "question": "If you saw these X-ray appearances in the setting of acute abdominal pain, what would be the most appropriate course of action?",
+            "options": [
+                "Place an abdominal drain",
+                "Request abdominal ultrasound",
+                "Request abdominal MRI",
+                "Resuscitate the patient and inform the surgeons",
+                "Take a break"
+            ],
+            "options_count": 5,
+            "correct_answer": "Resuscitate the patient and inform the surgeons",
+            "learning_points": "A large volume of free gas is present under the diaphragm. In the context of acute abdominal pain this finding indicates perforation. Emergency resuscitation and informing the surgeons would be the most appropriate action.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_7.jpg": "Abdominal_X_Ray_Quiz_1\\question_7\\question_7.jpg",
+                    "question_7_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_7\\question_7_big.jpg",
+                    "question_7_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_7\\question_7_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "question": "What are the artifacts visible?",
+            "options": [
+                "Urinary catheter and navel jewellery",
+                "Urinary catheter and surgical clips",
+                "Gastrostomy tube and surgical clips",
+                "Catheter and ingested foreign body",
+                "Gallstones and urinary catheter"
+            ],
+            "options_count": 5,
+            "correct_answer": "Urinary catheter and navel jewellery",
+            "learning_points": "If you are unsure about the origin of artifacts on an X-ray, you can refer to previous imaging, check the notes, ask the patient, or re-examine them.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_8.jpg": "Abdominal_X_Ray_Quiz_1\\question_8\\question_8.jpg",
+                    "question_8_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_8\\question_8_big.jpg",
+                    "question_8_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_8\\question_8_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "question": "Patient with abdominal pain and vomiting. Which answer best describes the X-ray appearances?",
+            "options": [
+                "Pneumoperitoneum",
+                "Ascites",
+                "Psoas abscess",
+                "Small bowel obstruction",
+                "Normal"
+            ],
+            "options_count": 5,
+            "correct_answer": "Normal",
+            "learning_points": "There is no evidence of obstruction, free fluid (ascites), or free gas (pneumoperitoneum). The diagnosis of psoas abscess is not made confidently on a plain abdominal X-ray but may be suggested by loss of definition of the psoas edges which are normal in this image.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_9.jpg": "Abdominal_X_Ray_Quiz_1\\question_9\\question_9.jpg",
+                    "question_9_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_9\\question_9_big.jpg",
+                    "question_9_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_9\\question_9_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "question": "Patient with abdominal pain and absolute constipation. Which answer best describes the X-ray appearances?",
+            "options": [
+                "Large bowel obstruction",
+                "Sigmoid volvulus",
+                "Caecal volvulus",
+                "Perforation",
+                "Small bowel obstruction"
+            ],
+            "options_count": 5,
+            "correct_answer": "Sigmoid volvulus",
+            "learning_points": "The classic 'coffee bean' sign is present, indicating sigmoid volvulus.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_10.jpg": "Abdominal_X_Ray_Quiz_1\\question_10\\question_10.jpg",
+                    "question_10_big.jpg": "Abdominal_X_Ray_Quiz_1\\question_10\\question_10_big.jpg",
+                    "question_10_ro.jpg": "Abdominal_X_Ray_Quiz_1\\question_10\\question_10_ro.jpg"
+                }
+            }
+        }
+    ]
+}

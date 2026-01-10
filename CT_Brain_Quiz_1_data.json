@@ -1,0 +1,257 @@
+{
+    "quiz_title": "CT-Brain-Quiz-1",
+    "base_url": "https://www.radiologymasterclass.co.uk/quizzes/test-yourself-ct-brain-quiz-1",
+    "base_image_url": "https://www.radiologymasterclass.co.uk/images/quizzes/CT-brain-Quiz-1",
+    "total_questions": 10,
+    "questions": [
+        {
+            "number": 1,
+            "question": "Patient with longstanding history of intermittent headache. What does the image show?",
+            "options": [
+                "Subdural collection",
+                "Subarachnoid haemorrhage",
+                "Normal appearances",
+                "Cerebral atrophy",
+                "Interventricular haemorrhage"
+            ],
+            "options_count": 5,
+            "correct_answer": "Normal appearances",
+            "learning_points": "No abnormality is visible. The foci of high density within the lateral ventricles represent calcification of the choroid plexus – a normal finding in adults.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_01.jpg": "CT_Brain_Quiz_1\\question_1\\question_01.jpg",
+                    "question_01_big.jpg": "CT_Brain_Quiz_1\\question_1\\question_01_big.jpg",
+                    "question_01_ro.jpg": "CT_Brain_Quiz_1\\question_1\\question_01_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "question": "History of head injury. Patient unconscious. Which statement is true?",
+            "options": [
+                "The scan is of insufficient quality to make a diagnosis and so should be repeated",
+                "There is no evidence of mass effect",
+                "The scan shows subarachnoid haemorrhage",
+                "Changing window settings would help clarify the diagnosis",
+                "A history of anticoagulation is irrelevant in this setting"
+            ],
+            "options_count": 5,
+            "correct_answer": "Changing window settings would help clarify the diagnosis",
+            "learning_points": "Image quality is often sub-optimal in acutely unwell patients. An attempt at diagnosis should still be made.\nThe image demonstrates a subdural collection on the right. In the context of head injury, the crescent-shaped layer of bright material seen over the right cerebral hemisphere represents a recent bleed – a subdural haematoma.\nMass effect is visible. The right lateral ventricle is effaced and there is shift of midline structures to the left.\nThe roll-over image demonstrates an altered window setting which makes it much easier to see the blood separate from the brain and skull.\nAlthough subdural and subarachnoid bleeding may coexist there is no evidence of subarachnoid blood in this image.\nAnticoagulation is a risk factor for intracranial bleeding of all kinds.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_02.jpg": "CT_Brain_Quiz_1\\question_2\\question_02.jpg",
+                    "question_02_big.jpg": "CT_Brain_Quiz_1\\question_2\\question_02_big.jpg",
+                    "question_02_ro.jpg": "CT_Brain_Quiz_1\\question_2\\question_02_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "question": "Patient with a sudden onset of hemianopia. What does this pre-contrast CT brain image demonstrate?",
+            "options": [
+                "Basal ganglia infarct",
+                "Left occipital intracerebral haemorrhage",
+                "Abnormal calcification",
+                "An enhancing mass",
+                "Acute haemorrhage in the left basal ganglia"
+            ],
+            "options_count": 5,
+            "correct_answer": "Left occipital intracerebral haemorrhage",
+            "learning_points": "These are the typical appearances of a primary intracerebral haemorrhage. Central high-density acute blood (blue area) is surrounded by low density oedema (red area).\nThe pineal gland is calcified – a normal finding.\nNo contrast has been given and so the high density does not represent an enhancing mass\nThe basal ganglia and internal capsule areas appear normal",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_03.jpg": "CT_Brain_Quiz_1\\question_3\\question_03.jpg",
+                    "question_03_big.jpg": "CT_Brain_Quiz_1\\question_3\\question_03_big.jpg",
+                    "question_03_ro.jpg": "CT_Brain_Quiz_1\\question_3\\question_03_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "question": "(Pre and post contrast images): Which description most accurately describes the findings on these two images?",
+            "options": [
+                "Increased density consistent with a subdural collection",
+                "Multiple areas of enhancement due to metastases",
+                "Areas of abnormally low density with the typical distribution of a territorial infarct",
+                "Areas of abnormally low density surrounded by enhancement post IV-contrast",
+                "Increased density consistent with an acute primary intracerebral haemorrhage"
+            ],
+            "options_count": 5,
+            "correct_answer": "Areas of abnormally low density surrounded by enhancement post IV-contrast",
+            "learning_points": "A very large irregularly-shaped area of abnormally low density is present in the left cerebral hemisphere. This is causing mass effect evidenced by the effacement of the sulci on this side of the brain and shift of midline structures.\nThe post-contrast image shows enhancement of brain tissue surrounding the low density area.\nThis mass lesion appears intra-axial (intracerebral) rather than extra-axial (outside the brain).\nAlthough it is possible that a metastasis has this appearance, there is only one lesion and so it is not ‘multiple’.\nThe appearances are not consistent with an acute primary intracerebral haemorrhage which would be of high density (white) on the pre-contrast image.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_04a.jpg": "CT_Brain_Quiz_1\\question_4\\question_04a.jpg",
+                    "question_04b.jpg": "CT_Brain_Quiz_1\\question_4\\question_04b.jpg",
+                    "question_04a_big.jpg": "CT_Brain_Quiz_1\\question_4\\question_04a_big.jpg",
+                    "question_04a_ro.jpg": "CT_Brain_Quiz_1\\question_4\\question_04a_ro.jpg",
+                    "question_04b_big.jpg": "CT_Brain_Quiz_1\\question_4\\question_04b_big.jpg",
+                    "question_04b_ro.jpg": "CT_Brain_Quiz_1\\question_4\\question_04b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "question": "Patient with history of recent head injury. What does this scan show?",
+            "options": [
+                "Intracerebral haemorrhage",
+                "Scalp haematoma",
+                "Parafalcine extra-axial haemorrhage",
+                "Subarachnoid haemorrhage",
+                "Skull fracture"
+            ],
+            "options_count": 5,
+            "correct_answer": "Scalp haematoma",
+            "learning_points": "These are the typical appearances of a scalp haematoma.\nThere is no evidence of intracerebral haemorrhage.\nThe image is set to ‘brain windows’ so it is not possible to see a skull fracture. To see a skull fracture the window settings should be set to view the bones.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_05.jpg": "CT_Brain_Quiz_1\\question_5\\question_05.jpg",
+                    "question_05_big.jpg": "CT_Brain_Quiz_1\\question_5\\question_05_big.jpg",
+                    "question_05_ro.jpg": "CT_Brain_Quiz_1\\question_5\\question_05_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "question": "(Pre and post contrast CT images of the brain show cerebral metastasis): What else is present?",
+            "options": [
+                "Abnormal low density of white matter representing cerebral oedema",
+                "Areas of high density representing recent subarachnoid bleeding",
+                "Areas of high density representing recent subdural bleeding",
+                "Areas of high density representing recent intracerebral bleeding",
+                "Areas of normal intracerebral calcification"
+            ],
+            "options_count": 5,
+            "correct_answer": "Abnormal low density of white matter representing cerebral oedema",
+            "learning_points": "A small rounded focus of slightly high density on the pre-contrast image enhances on the post-contrast image. The post-contrast image also shows multiple other foci of enhancement. These are typical appearances of brain metastases.\nBoth the pre and post-IV contrast images show a large area of abnormally low density within white matter due to cerebral oedema.\nAcute bleeding results in areas of high density on the pre-contrast image which would not enhance post contrast.\nThere is no intracerebral calcification visible on these CT images.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_06a.jpg": "CT_Brain_Quiz_1\\question_6\\question_06a.jpg",
+                    "question_06b.jpg": "CT_Brain_Quiz_1\\question_6\\question_06b.jpg",
+                    "question_06a_big.jpg": "CT_Brain_Quiz_1\\question_6\\question_06a_big.jpg",
+                    "question_06a_ro.jpg": "CT_Brain_Quiz_1\\question_6\\question_06a_ro.jpg",
+                    "question_06b_big.jpg": "CT_Brain_Quiz_1\\question_6\\question_06b_big.jpg",
+                    "question_06b_ro.jpg": "CT_Brain_Quiz_1\\question_6\\question_06b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "question": "Elderly patient with confusion and history of falls. Which abnormality is present?",
+            "options": [
+                "Multiple well-defined foci of low density diagnostic of brain metastases",
+                "Lacunar infarcts",
+                "Old territorial infarct",
+                "Bilateral chronic subdural collections",
+                "Low density of cerebral white matter"
+            ],
+            "options_count": 5,
+            "correct_answer": "Low density of cerebral white matter",
+            "learning_points": "Patchy low density of cerebral white matter is a sign of chronic small vessel disease.\nThere are no well-defined foci of low density.\nThere is no well-defined area of low density of grey and white matter in a territorial distribution to indicate the presence of an old territorial infarct.\nNo subdural collection is present.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_07.jpg": "CT_Brain_Quiz_1\\question_7\\question_07.jpg",
+                    "question_07_big.jpg": "CT_Brain_Quiz_1\\question_7\\question_07_big.jpg",
+                    "question_07_ro.jpg": "CT_Brain_Quiz_1\\question_7\\question_07_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "question": "CT brain on bone window settings - 2 images: Which anatomical structure is highlighted in orange on image 2?",
+            "options": [
+                "Sphenoid sinus",
+                "Ethmoid air cell",
+                "Mastoid air cell",
+                "Pituitary fossa",
+                "Frontal sinus"
+            ],
+            "options_count": 5,
+            "correct_answer": "Sphenoid sinus",
+            "learning_points": "The sinuses of the skull contain air and so are completely black on CT; they have the same density as the air surrounding the head.\nThe sphenoid sinus is highlighted in orange (roll-over image). It has very variable appearance and can be split into two or more compartments.\nThe pituitary fossa (not visible) contains the pituitary gland which is of similar density to the brain.\nSome of the other sinuses and air cells of the skull are highlighted.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_08a.jpg": "CT_Brain_Quiz_1\\question_8\\question_08a.jpg",
+                    "question_08b.jpg": "CT_Brain_Quiz_1\\question_8\\question_08b.jpg",
+                    "question_08a_big.jpg": "CT_Brain_Quiz_1\\question_8\\question_08a_big.jpg",
+                    "question_08a_ro.jpg": "CT_Brain_Quiz_1\\question_8\\question_08a_ro.jpg",
+                    "question_08b_big.jpg": "CT_Brain_Quiz_1\\question_8\\question_08b_big.jpg",
+                    "question_08b_ro.jpg": "CT_Brain_Quiz_1\\question_8\\question_08b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "question": "Which clinical feature(s) would you expect to be present in this patient?",
+            "options": [
+                "Asymptomatic with no focal neurological deficit",
+                "Recent onset of right hemiparesis",
+                "Recent onset of isolated left cerebellar signs",
+                "History of old territorial infarct",
+                "Normal power in both arms and reduced power in both legs"
+            ],
+            "options_count": 5,
+            "correct_answer": "Recent onset of right hemiparesis",
+            "learning_points": "A large area of low density is seen in the grey and white matter of the left cerebral hemisphere indicating a large middle cerebral artery territory infarct. It is possible to determine that the infarct is recent; in the case of old infarcts the low density would be similar to that of the CSF in the ventricles.\nClinically the patient would have a significant neurological deficit in accordance to the anatomical area affected. In this case the patient would have a right hemiparesis.\nThe patient could also have cerebellar signs, if the posterior circulation was also affected, but this would not be an isolated clinical feature in this case.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_09.jpg": "CT_Brain_Quiz_1\\question_9\\question_09.jpg",
+                    "question_09_big.jpg": "CT_Brain_Quiz_1\\question_9\\question_09_big.jpg",
+                    "question_09_ro.jpg": "CT_Brain_Quiz_1\\question_9\\question_09_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "question": "Non-contrast CT brain: Patient found unconscious. Which finding is visible?",
+            "options": [
+                "Normal calcification of the choroid plexus",
+                "Abnormal high-density material in the subarachnoid space",
+                "Acute intracerebral haemorrhage",
+                "Reduced brain volume",
+                "Bilateral subdural collections"
+            ],
+            "options_count": 5,
+            "correct_answer": "Abnormal high-density material in the subarachnoid space",
+            "learning_points": "High density material in the subarachnoid spaces (the sulci, fissures and ventricular system) indicates acute subarachnoid haemorrhage.\nThere is no evidence of acute intracerebral haemorrhage, subdural collections, or reduced brain volume. There is no intracerebral calcification visible.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_10.jpg": "CT_Brain_Quiz_1\\question_10\\question_10.jpg",
+                    "question_10_big.jpg": "CT_Brain_Quiz_1\\question_10\\question_10_big.jpg",
+                    "question_10_ro.jpg": "CT_Brain_Quiz_1\\question_10\\question_10_ro.jpg"
+                }
+            }
+        }
+    ]
+}

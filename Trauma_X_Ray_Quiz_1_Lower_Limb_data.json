@@ -1,0 +1,239 @@
+{
+    "quiz_title": "Trauma-X-Ray-Quiz-1-Lower-Limb",
+    "base_url": "https://www.radiologymasterclass.co.uk/quizzes/test-yourself-trauma-x-ray-quiz-1-lower-limb",
+    "base_image_url": "https://www.radiologymasterclass.co.uk/images/quizzes/Trauma-quiz-1-lower-limb",
+    "total_questions": 10,
+    "questions": [
+        {
+            "number": 1,
+            "question": "Twisted ankle. Pain medially and laterally. AP and lateral views.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "No injury",
+            "learning_points": "No bone injury. Alignment of all the joints   is normal. No soft tissue swelling.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_1a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_1\\question_1a.jpg",
+                    "question_1b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_1\\question_1b.jpg",
+                    "question_1a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_1\\question_1a_big.jpg",
+                    "question_1a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_1\\question_1a_ro.jpg",
+                    "question_1b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_1\\question_1b_big.jpg",
+                    "question_1b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_1\\question_1b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "question": "Twisting injury. Painful foot. DP and oblique views.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Fracture of the fifth metatarsal shaft.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_2a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_2\\question_2a.jpg",
+                    "question_2b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_2\\question_2b.jpg",
+                    "question_2a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_2\\question_2a_big.jpg",
+                    "question_2a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_2\\question_2a_ro.jpg",
+                    "question_2b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_2\\question_2b_big.jpg",
+                    "question_2b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_2\\question_2b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "question": "Patient confused. Fall. Pain in hip. AP view of the pelvis.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Intertrochanteric fracture of the left hip.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_3.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_3\\question_3.jpg",
+                    "question_3_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_3\\question_3_big.jpg",
+                    "question_3_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_3\\question_3_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "question": "Hyperextension injury to knee. Pain and tenderness medially. AP and lateral views.",
+            "options": [
+                "Injury",
+                "No Injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "No Injury",
+            "learning_points": "No fracture. Normal soft tissues. Normal knee joint alignment.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_4a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_4\\question_4a.jpg",
+                    "question_4b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_4\\question_4b.jpg",
+                    "question_4a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_4\\question_4a_big.jpg",
+                    "question_4a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_4\\question_4a_ro.jpg",
+                    "question_4b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_4\\question_4b_big.jpg",
+                    "question_4b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_4\\question_4b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "question": "Twisting injury to ankle. Pain and tenderness. Unable to walk. Single AP view (other views were normal).",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Transverse fracture of the medial malleolus.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_5.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_5\\question_5.jpg",
+                    "question_5_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_5\\question_5_big.jpg",
+                    "question_5_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_5\\question_5_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "question": "Direct trauma to toes. Pain and tenderness. DP and oblique views.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Transverse fracture of the fourth toe proximal phalanx with minor valgus angulation.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_6a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_6\\question_6a.jpg",
+                    "question_6b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_6\\question_6b.jpg",
+                    "question_6a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_6\\question_6a_big.jpg",
+                    "question_6a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_6\\question_6a_ro.jpg",
+                    "question_6b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_6\\question_6b_big.jpg",
+                    "question_6b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_6\\question_6b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "question": "Direct trauma to the lateral side of the knee.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Subtle tibial fracture with lipohaemarthorsis",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_7a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_7\\question_7a.jpg",
+                    "question_7b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_7\\question_7b.jpg",
+                    "question_7a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_7\\question_7a_big.jpg",
+                    "question_7a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_7\\question_7a_ro.jpg",
+                    "question_7b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_7\\question_7b_big.jpg",
+                    "question_7b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_7\\question_7b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "question": "Direct trauma to foot. Painful metatarsals. DP and oblique images.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "No injury",
+            "learning_points": "Normal 5th metatarsal apophysis.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_8a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_8\\question_8a.jpg",
+                    "question_8b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_8\\question_8b.jpg",
+                    "question_8a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_8\\question_8a_big.jpg",
+                    "question_8a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_8\\question_8a_ro.jpg",
+                    "question_8b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_8\\question_8b_big.jpg",
+                    "question_8b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_8\\question_8b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "question": "Fall. Painful hip and unable to walk.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Fracture of the neck of femur. Shenton’s line is disrupted and the femoral head overlaps the femoral neck.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_9.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_9\\question_9.jpg",
+                    "question_9_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_9\\question_9_big.jpg",
+                    "question_9_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_9\\question_9_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "question": "Dropped heavy weight on foot. Painful foot. Tender metatarsals.",
+            "options": [
+                "Injury",
+                "No injury"
+            ],
+            "options_count": 2,
+            "correct_answer": "Injury",
+            "learning_points": "Break in the cortex of the fourth metatarsal distally.\nThe fracture is more easily seen on the DP view and is barely visible on the oblique image.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_10a.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_10\\question_10a.jpg",
+                    "question_10b.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_10\\question_10b.jpg",
+                    "question_10a_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_10\\question_10a_big.jpg",
+                    "question_10a_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_10\\question_10a_ro.jpg",
+                    "question_10b_big.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_10\\question_10b_big.jpg",
+                    "question_10b_ro.jpg": "Trauma_X_Ray_Quiz_1_Lower_Limb\\question_10\\question_10b_ro.jpg"
+                }
+            }
+        }
+    ]
+}

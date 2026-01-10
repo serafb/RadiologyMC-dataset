@@ -1,0 +1,249 @@
+{
+    "quiz_title": "Chest-X-Ray-Quiz-4",
+    "base_url": "https://www.radiologymasterclass.co.uk/quizzes/test-yourself-chest-x-ray-quiz-4",
+    "base_image_url": "https://www.radiologymasterclass.co.uk/images/quizzes/Quiz-Images-Chest-4",
+    "total_questions": 10,
+    "questions": [
+        {
+            "number": 1,
+            "question": "Regarding this X-ray - the most likely diagnosis is…",
+            "options": [
+                "Sarcoidosis",
+                "Mesothelioma",
+                "Pulmonary fibrosis",
+                "Thymoma",
+                "Primary bronchogenic lung carcinoma"
+            ],
+            "options_count": 5,
+            "correct_answer": "Primary bronchogenic lung carcinoma",
+            "learning_points": "There is a large rounded area of increased density in the right lower zone, and enlargement of the right hilar structures.\nSarcoidosis usually causes bilateral hilar enlargement and areas of consolidation.\nMesothelioma usually presents with signs of pleural disease such as a pleural effusion or pleural thickening.\nLung volumes are normal and there is no evidence of reticulation (net-like appearance) of the lungs, so fibrosis is an unlikely cause.\nA thymoma usually causes widening of the upper mediastinum which appears normal in this image.\nThe area of density in the right lung base is due to a lung mass and the enlarged right hilum is due to enlarged lymph nodes in this area. The most likely diagnosis is a primary bronchogenic carcinoma.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_01.jpg": "Chest_X_Ray_Quiz_4\\question_1\\question_01.jpg",
+                    "question_01_big.jpg": "Chest_X_Ray_Quiz_4\\question_1\\question_01_big.jpg",
+                    "question_01_ro.jpg": "Chest_X_Ray_Quiz_4\\question_1\\question_01_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "question": "55-year-old male. Which is the most likely clinical scenario?",
+            "options": [
+                "Clinically suspected bowel perforation",
+                "The patient has smoked heavily for many years",
+                "Unilateral hyper-resonance to percussion",
+                "Long history of cardiomegaly",
+                "Multiple previous exposures to asbestos"
+            ],
+            "options_count": 5,
+            "correct_answer": "The patient has smoked heavily for many years",
+            "learning_points": "Gas under the left hemidiaphragm is contained within the bowel – there is no evidence of perforation.\nThe hemidiaphragms are flattened and located below the level of the 7th ribs indicating the lungs are hyperexpanded. The lungs also appear of generalised low density. These are features of emphysema and so a history of long-term smoking is likely – 35 years in this patient.\nHyper-resonance would likely be bilateral in this patient.\nThe heart is not enlarged.\n",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_02.jpg": "Chest_X_Ray_Quiz_4\\question_2\\question_02.jpg",
+                    "question_02_big.jpg": "Chest_X_Ray_Quiz_4\\question_2\\question_02_big.jpg",
+                    "question_02_ro.jpg": "Chest_X_Ray_Quiz_4\\question_2\\question_02_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "question": "2 IMAGES: (Image 1 - at time of presentation. Image 2 - 6 weeks later.) 69-year-old male smoker with a productive cough, fever and raised white cell count and C-reactive protein.  He was started on antibiotics at the time of image 1. Which statement is TRUE regarding image 2?",
+            "options": [
+                "Metastatic renal cell carcinoma is the most likely cause of the X-ray appearances",
+                "Multi-focal consolidation of the lungs is invariably due to pneumonia",
+                "Comparison with previous chest X-rays would not be helpful in this setting",
+                "The radiological features alone are diagnostic of lobar pneumonia",
+                "The areas of consolidation have improved"
+            ],
+            "options_count": 5,
+            "correct_answer": "The areas of consolidation have improved",
+            "learning_points": "The areas of consolidation seen on image 1 have improved on the second image.\nRenal cell carcinoma can lead to similar appearances but the rapid improvement following antibiotic treatment points towards infection as the cause.\nComparison with previous images is always helpful if they are available.\nNo radiological feature is ever diagnostic of a pneumonia. Even if pneumonia was considered to be the diagnosis in this case the distribution is not that of a lobar pneumonia as the multiple areas of abnormality are not in a specific lobe of the lungs.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 0,
+                "count_ro": 0,
+                "downloaded_files": {
+                    "question_3a.jpg": "Chest_X_Ray_Quiz_4\\question_3\\question_3a.jpg"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "question": "On seeing this chest X-ray, which of the following actions is most appropriate?",
+            "options": [
+                "Immediately return to reassess the patient and alert your team of the X-ray findings",
+                "Request a CT of the chest with intravenous contrast",
+                "Request an ultrasound of the abdomen",
+                "No action is necessary – the image is normal",
+                "Request a repeat X-ray – it is under-penetrated"
+            ],
+            "options_count": 5,
+            "correct_answer": "Immediately return to reassess the patient and alert your team of the X-ray findings",
+            "learning_points": "This is a large left pneumothorax (greater than 2 cm width at the level of the hilum). There is also evidence of tension – the trachea and right heart border are shifted to the right and there is slight depression of the left hemidiaphragm.\nThis is a medical emergency requiring the immediate attention of you and your team.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_04.jpg": "Chest_X_Ray_Quiz_4\\question_4\\question_04.jpg",
+                    "question_04_big.jpg": "Chest_X_Ray_Quiz_4\\question_4\\question_04_big.jpg",
+                    "question_04_ro.jpg": "Chest_X_Ray_Quiz_4\\question_4\\question_04_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "question": "29-year-old male – recent onset cough and pleuritic chest pain. What is the radiological diagnosis?",
+            "options": [
+                "A recently fractured bone",
+                "Pulmonary fibrosis",
+                "Sarcoidosis",
+                "Surgical emphysema",
+                "Normal heart and lungs"
+            ],
+            "options_count": 5,
+            "correct_answer": "Normal heart and lungs",
+            "learning_points": "This chest X-ray shows normal appearances of the heart and lungs. There is no evidence of pulmonary fibrosis, sarcoidosis, or surgical emphysema. A left clavicle fracture is not recent.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_05.jpg": "Chest_X_Ray_Quiz_4\\question_5\\question_05.jpg",
+                    "question_05_big.jpg": "Chest_X_Ray_Quiz_4\\question_5\\question_05_big.jpg",
+                    "question_05_ro.jpg": "Chest_X_Ray_Quiz_4\\question_5\\question_05_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "question": "(2 Images: One with and one without marking.) What does the anatomical line marked on image 2 represent?",
+            "options": [
+                "The anterior junctional line",
+                "The right heart border",
+                "The right paratracheal stripe",
+                "The azygo-oesophageal line",
+                "The descending thoracic aorta"
+            ],
+            "options_count": 5,
+            "correct_answer": "The azygo-oesophageal line",
+            "learning_points": "This is the azygo-oesophageal line. This line is formed by the contrast of the low-density lung at its interface with the relatively higher density soft tissues of the mediastinum formed by the vertically-orientated oesophagus and azygos vein.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_06a.jpg": "Chest_X_Ray_Quiz_4\\question_6\\question_06a.jpg",
+                    "question_06b.jpg": "Chest_X_Ray_Quiz_4\\question_6\\question_06b.jpg",
+                    "question_06a_big.jpg": "Chest_X_Ray_Quiz_4\\question_6\\question_06a_big.jpg",
+                    "question_06a_ro.jpg": "Chest_X_Ray_Quiz_4\\question_6\\question_06a_ro.jpg",
+                    "question_06b_big.jpg": "Chest_X_Ray_Quiz_4\\question_6\\question_06b_big.jpg",
+                    "question_06b_ro.jpg": "Chest_X_Ray_Quiz_4\\question_6\\question_06b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "question": "What are the chest X-ray appearances most likely due to in this patient with a cough and night sweats?",
+            "options": [
+                "Pulmonary oedema",
+                "Lung metastases",
+                "Tuberculosis",
+                "Previous spontaneous pneumothorax",
+                "Sarcoidosis"
+            ],
+            "options_count": 5,
+            "correct_answer": "Tuberculosis",
+            "learning_points": "Consolidation of the right upper zone is accompanied by enlargement of the right hilum. These are typical appearances of primaryMycobacterium tuberculosisinfection.\nPulmonary oedema is a cause of consolidation, but distribution is usually bilateral and affects the perihilar or lower parts of the lungs.\nPrevious spontaneous pneumothorax does not usually leave any signs of abnormality in the lung affected.\nAlthough sarcoidosis does cause hilar enlargement and parenchymal disease, these changes are usually bilateral.\nPrimary lung cancer is a differential in this case, but the appearances do not suggest lung metastases.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_07.jpg": "Chest_X_Ray_Quiz_4\\question_7\\question_07.jpg",
+                    "question_07_big.jpg": "Chest_X_Ray_Quiz_4\\question_7\\question_07_big.jpg",
+                    "question_07_ro.jpg": "Chest_X_Ray_Quiz_4\\question_7\\question_07_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "question": "Which of the following features is present?",
+            "options": [
+                "Dextrocardia",
+                "Bilateral pleural effusions",
+                "Pericardial effusion",
+                "Hiatus hernia",
+                "Normal chest X-ray"
+            ],
+            "options_count": 5,
+            "correct_answer": "Hiatus hernia",
+            "learning_points": "There is a round area projected over the lower mediastinum due to the stomach passing superiorly through the hiatal orifice into the thorax – a hiatus hernia. Within this area superiorly there is low density (asterisks) which represents gas in the herniated stomach.\nThe heart contours are normal and the costophrenic angles are well-defined.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_08.jpg": "Chest_X_Ray_Quiz_4\\question_8\\question_08.jpg",
+                    "question_08_big.jpg": "Chest_X_Ray_Quiz_4\\question_8\\question_08_big.jpg",
+                    "question_08_ro.jpg": "Chest_X_Ray_Quiz_4\\question_8\\question_08_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "question": "Which statement is TRUE?",
+            "options": [
+                "The image shows a finding which could be explained by recent laparoscopic surgery",
+                "Urgent CT scanning is required regardless of the clinical context",
+                "The abnormality is obvious and so a systematic approach is not required",
+                "The image is of poor quality and should be discarded and repeated",
+                "The heart is enlarged"
+            ],
+            "options_count": 5,
+            "correct_answer": "The image shows a finding which could be explained by recent laparoscopic surgery",
+            "learning_points": "There is a thin crescent-shaped low-density line under the right hemidiaphragm indicating free gas in the abdomen. This appearance can be due to perforation of an abdominal viscus or may be due to residual intra-abdominal gas following laparoscopic surgery.\nThe normal stomach bubble is seen on the left.\nWhen considering imaging with CT the clinical context must always be considered. It is a high radiation dose investigation, so should be avoided if not necessary.\nA systematic approach is always required.\nThe image is diagnostic and so should not be repeated.\nThe heart is not enlarged.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_09.jpg": "Chest_X_Ray_Quiz_4\\question_9\\question_09.jpg",
+                    "question_09_big.jpg": "Chest_X_Ray_Quiz_4\\question_9\\question_09_big.jpg",
+                    "question_09_ro.jpg": "Chest_X_Ray_Quiz_4\\question_9\\question_09_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "question": "(Detail image.) The radiological feature shown is…",
+            "options": [
+                "… diagnostic of sarcoidosis",
+                "… not a significant finding in the context of suspected heart failure",
+                "… diagnostic of lymphangitis carcinomatosa",
+                "… a normal variant",
+                "… a sign of interstitial pulmonary oedema"
+            ],
+            "options_count": 5,
+            "correct_answer": "… a sign of interstitial pulmonary oedema",
+            "learning_points": "Septal lines (Kerley B lines) are seen at the lung base. Thickening of these lines such that they become visible is caused by fluid in the interlobular septa. This is a sign of interstitial pulmonary oedema in the context of suspected heart failure.\nThickened septal lines can also be seen in sarcoidosis and lymphangitis carcinomatosa.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_10.jpg": "Chest_X_Ray_Quiz_4\\question_10\\question_10.jpg",
+                    "question_10_big.jpg": "Chest_X_Ray_Quiz_4\\question_10\\question_10_big.jpg",
+                    "question_10_ro.jpg": "Chest_X_Ray_Quiz_4\\question_10\\question_10_ro.jpg"
+                }
+            }
+        }
+    ]
+}

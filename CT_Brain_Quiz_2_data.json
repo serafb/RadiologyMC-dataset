@@ -1,0 +1,257 @@
+{
+    "quiz_title": "CT-Brain-Quiz-2",
+    "base_url": "https://www.radiologymasterclass.co.uk/quizzes/test-yourself-ct-brain-quiz-2",
+    "base_image_url": "https://www.radiologymasterclass.co.uk/images/quizzes/CT-brain-Quiz-2",
+    "total_questions": 10,
+    "questions": [
+        {
+            "number": 1,
+            "question": "Non-contrast CT brain: History of hypertension and sudden onset of left facial droop. What does the image show?",
+            "options": [
+                "Subarachnoid haemorrhage",
+                "Subdural haemorrhage",
+                "Intraventricular haemorrhage",
+                "Intracerebral haemorrhage",
+                "Enhancing mass"
+            ],
+            "options_count": 5,
+            "correct_answer": "Intracerebral haemorrhage",
+            "learning_points": "The image shows a large area of high density in the right frontal lobe due to acute bleeding. The CT was non-contrast and so this can’t be an enhancing mass.\nIts position indicates it is in the brain (intra-axial) rather than extra-axial, so subarachnoid and subdural haemorrhage are ruled out.\nThe focus of high density in the posterior horn of the right lateral ventricle is the calcified choroid plexus, a normal finding.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_01.jpg": "CT_Brain_Quiz_2\\question_1\\question_01.jpg",
+                    "question_01_big.jpg": "CT_Brain_Quiz_2\\question_1\\question_01_big.jpg",
+                    "question_01_ro.jpg": "CT_Brain_Quiz_2\\question_1\\question_01_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "question": "Poor historian with increasing confusion over several weeks. What does the image show?",
+            "options": [
+                "Left subdural collection",
+                "Subarachnoid haemorrhage",
+                "Brain atrophy without evidence of haemorrhage",
+                "Bilateral subdural collections",
+                "Intraventricular haemorrhage"
+            ],
+            "options_count": 5,
+            "correct_answer": "Bilateral subdural collections",
+            "learning_points": "The left-sided subdural collection is easy to see. There is also a thin subdural collection on the right.\nIf you see one abnormality, don’t forget to continue viewing the scan systematically.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_02.jpg": "CT_Brain_Quiz_2\\question_2\\question_02.jpg",
+                    "question_02_big.jpg": "CT_Brain_Quiz_2\\question_2\\question_02_big.jpg",
+                    "question_02_ro.jpg": "CT_Brain_Quiz_2\\question_2\\question_02_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "question": "Post contrast CT brain: Patient with colon cancer. What is the most likely diagnosis?",
+            "options": [
+                "Two benign meningiomas",
+                "Two enhancing metastases",
+                "Two primary brain tumours",
+                "Subarachnoid haemorrhage",
+                "Two areas of normal calcification"
+            ],
+            "options_count": 5,
+            "correct_answer": "Two enhancing metastases",
+            "learning_points": "In a patient with a known malignancy a mass in the brain is most likely due to metastatic disease. Two primary lesions occurring simultaneously, benign or malignant, is rare.\nThe image shows enhancement of normal vessels as well as the enhancing masses.\nThere is no evidence of subarachnoid haemorrhage.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_03.jpg": "CT_Brain_Quiz_2\\question_3\\question_03.jpg",
+                    "question_03_big.jpg": "CT_Brain_Quiz_2\\question_3\\question_03_big.jpg",
+                    "question_03_ro.jpg": "CT_Brain_Quiz_2\\question_3\\question_03_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "question": "Non-contrast CT brain: Anticoagulated patient with sudden onset of confusion and right hemiparesis. What does the image show?",
+            "options": [
+                "Subdural haemorrhage",
+                "Intraventricular haemorrhage",
+                "Epidural haemorrhage",
+                "Enhancing mass",
+                "Calcification of the choroid plexus"
+            ],
+            "options_count": 5,
+            "correct_answer": "Intraventricular haemorrhage",
+            "learning_points": "High density material fills the left lateral ventricle. This is blood which extended from an intracerebral haemorrhage of the adjacent peri-ventricular white matter.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_04.jpg": "CT_Brain_Quiz_2\\question_4\\question_04.jpg",
+                    "question_04_big.jpg": "CT_Brain_Quiz_2\\question_4\\question_04_big.jpg",
+                    "question_04_ro.jpg": "CT_Brain_Quiz_2\\question_4\\question_04_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "question": "What does the image show?",
+            "options": [
+                "Depressed skull fracture",
+                "Poor quality scan of the brain which should be repeated",
+                "Normal variant of skull sutures",
+                "Movement artifact",
+                "Subarachnoid haemorrhage"
+            ],
+            "options_count": 5,
+            "correct_answer": "Depressed skull fracture",
+            "learning_points": "This CT brain image on bone window settings shows a depressed skull fracture.\nRemember to look at both the brain windows and the bone windows on all CT images of the brain.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_05.jpg": "CT_Brain_Quiz_2\\question_5\\question_05.jpg",
+                    "question_05_big.jpg": "CT_Brain_Quiz_2\\question_5\\question_05_big.jpg",
+                    "question_05_ro.jpg": "CT_Brain_Quiz_2\\question_5\\question_05_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "question": "Non-contrast CT Brain: Sudden onset severe headache. What does the image show?",
+            "options": [
+                "Subdural haematoma",
+                "Subarachnoid haemorrhage",
+                "Intraventricular haemorrhage",
+                "Extradural haematoma",
+                "Intracerebral haemorrhage"
+            ],
+            "options_count": 5,
+            "correct_answer": "Subarachnoid haemorrhage",
+            "learning_points": "Increased density material seen in the subarachnoid space indicates acute haemorrhage.\nAlthough subarachnoid bleeding can extend into the ventricles, the ventricles do not contain blood in this image.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_06.jpg": "CT_Brain_Quiz_2\\question_6\\question_06.jpg",
+                    "question_06_big.jpg": "CT_Brain_Quiz_2\\question_6\\question_06_big.jpg",
+                    "question_06_ro.jpg": "CT_Brain_Quiz_2\\question_6\\question_06_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "question": "Alcoholic found unconscious. What does the image show?",
+            "options": [
+                "Subdural haematoma",
+                "Subarachnoid haemorrhage",
+                "Intraventricular haemorrhage",
+                "Extradural haematoma",
+                "Intracerebral haemorrhage"
+            ],
+            "options_count": 5,
+            "correct_answer": "Extradural haematoma",
+            "learning_points": "This image shows lentiform increased density material indicating acute blood in the extra-axial space (not in the brain). These are the typical appearances of an extradural haematoma.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_07.jpg": "CT_Brain_Quiz_2\\question_7\\question_07.jpg",
+                    "question_07_big.jpg": "CT_Brain_Quiz_2\\question_7\\question_07_big.jpg",
+                    "question_07_ro.jpg": "CT_Brain_Quiz_2\\question_7\\question_07_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "question": "2 CT brain images, pre and post-contrast: Patient with worsening headache. Which finding is NOT present?",
+            "options": [
+                "Ventricular effacement",
+                "Sulcal effacement",
+                "Mass with central enhancement",
+                "Mass with peripheral enhancement",
+                "White matter oedema"
+            ],
+            "options_count": 5,
+            "correct_answer": "Mass with central enhancement",
+            "learning_points": "A large mass in the left cerebral hemisphere is causing mass effect with effacement of the sulci and left lateral ventricle (asterisk).\nLow density surrounding the mass indicates vasogenic oedema of white matter.\nThe mass enhances peripherally but not centrally. The central portion of the mass is avascular due to cell necrosis.\nNote:Abscess is a differential diagnosis",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_08a.jpg": "CT_Brain_Quiz_2\\question_8\\question_08a.jpg",
+                    "question_08b.jpg": "CT_Brain_Quiz_2\\question_8\\question_08b.jpg",
+                    "question_08a_big.jpg": "CT_Brain_Quiz_2\\question_8\\question_08a_big.jpg",
+                    "question_08a_ro.jpg": "CT_Brain_Quiz_2\\question_8\\question_08a_ro.jpg",
+                    "question_08b_big.jpg": "CT_Brain_Quiz_2\\question_8\\question_08b_big.jpg",
+                    "question_08b_ro.jpg": "CT_Brain_Quiz_2\\question_8\\question_08b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "question": "2 CT brain images, brain and bone window settings:  What do these images show?",
+            "options": [
+                "Abnormal brain not compatible with life",
+                "Severe skull fracturing",
+                "Multiple areas of extra-axial haemorrhage",
+                "Movement artifact",
+                "Calcification of scalp soft tissues"
+            ],
+            "options_count": 5,
+            "correct_answer": "Movement artifact",
+            "learning_points": "This elderly patient presented with confusion and he could not co-operate with instructions to keep still in the CT scanner.\nThe images have been acquired while the patient is shaking his head. Image quality is non-diagnostic.\nA repeat scan later showed no acute abnormality. The confusion was due to a urinary infection, a much more common cause of confusion in elderly patients than intracranial pathology.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_09a.jpg": "CT_Brain_Quiz_2\\question_9\\question_09a.jpg",
+                    "question_09b.jpg": "CT_Brain_Quiz_2\\question_9\\question_09b.jpg",
+                    "question_09a_big.jpg": "CT_Brain_Quiz_2\\question_9\\question_09a_big.jpg",
+                    "question_09a_ro.jpg": "CT_Brain_Quiz_2\\question_9\\question_09a_ro.jpg",
+                    "question_09b_big.jpg": "CT_Brain_Quiz_2\\question_9\\question_09b_big.jpg",
+                    "question_09b_ro.jpg": "CT_Brain_Quiz_2\\question_9\\question_09b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "question": "2 CT brain images, pre and post-contrast: Patient with worsening postural headache and cerebellar signs. What is the most likely diagnosis?",
+            "options": [
+                "Subdural collection",
+                "Subarachnoid haemorrhage",
+                "Intraventricular haemorrhage",
+                "Extradural haematoma",
+                "Posterior fossa meningioma"
+            ],
+            "options_count": 5,
+            "correct_answer": "Posterior fossa meningioma",
+            "learning_points": "These are typical appearances of a meningioma.\nThis enhancing mass arises from the dura mater; in this case from the tentorium cerebelli, a sheet of dura mater which separates the posterior fossa structures from the rest of the brain.\nThe mass compresses the adjacent cerebellum.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_10a.jpg": "CT_Brain_Quiz_2\\question_10\\question_10a.jpg",
+                    "question_10b.jpg": "CT_Brain_Quiz_2\\question_10\\question_10b.jpg",
+                    "question_10a_big.jpg": "CT_Brain_Quiz_2\\question_10\\question_10a_big.jpg",
+                    "question_10a_ro.jpg": "CT_Brain_Quiz_2\\question_10\\question_10a_ro.jpg",
+                    "question_10b_big.jpg": "CT_Brain_Quiz_2\\question_10\\question_10b_big.jpg",
+                    "question_10b_ro.jpg": "CT_Brain_Quiz_2\\question_10\\question_10b_ro.jpg"
+                }
+            }
+        }
+    ]
+}

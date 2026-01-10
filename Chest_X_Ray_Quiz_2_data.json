@@ -1,0 +1,254 @@
+{
+    "quiz_title": "Chest-X-Ray-Quiz-2",
+    "base_url": "https://www.radiologymasterclass.co.uk/quizzes/test-yourself-chest-x-ray-quiz-2",
+    "base_image_url": "https://www.radiologymasterclass.co.uk/images/quizzes/Quiz-Images-Chest-2",
+    "total_questions": 10,
+    "questions": [
+        {
+            "number": 1,
+            "question": "Which one statement is true? On the grounds of imaging appearances alone, the diagnosis is...",
+            "options": [
+                "Pneumonia",
+                "Lung cancer",
+                "Pulmonary contusion",
+                "Any of the above",
+                "Normal chest X-ray"
+            ],
+            "options_count": 5,
+            "correct_answer": "Any of the above",
+            "learning_points": "The image shows right lower zone consolidation. It is not possible to establish the cause without reference to the clinical scenario which is not stated.\nConsolidation can be caused by pneumonia, lung cancer, pulmonary oedema, or pulmonary haemorrhage/contusion. Alveolar proteinosis is a very rare cause. Both pulmonary oedema and alveolar proteinosis tend to cause more widespread bilateral consolidation. Any of the other causes are possible causes of the consolidation seen in this image.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_01.jpg": "Chest_X_Ray_Quiz_2\\question_1\\question_01.jpg",
+                    "question_01_big.jpg": "Chest_X_Ray_Quiz_2\\question_1\\question_01_big.jpg",
+                    "question_01_ro.jpg": "Chest_X_Ray_Quiz_2\\question_1\\question_01_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "question": "What congenital abnormality is visible in this chest X-ray of a patient with no respiratory symptoms?",
+            "options": [
+                "Right-sided aortic arch",
+                "Tetralogy of Fallot",
+                "Dextrocardia with bronchiectasis related to Kartagener’s syndrome",
+                "Dextrocardia with situs inversus",
+                "Dextrocardia with normal situs (situs solitus)"
+            ],
+            "options_count": 5,
+            "correct_answer": "Dextrocardia with normal situs (situs solitus)",
+            "learning_points": "The heart is on the right indicating dextrocardia. The liver and the stomach/colon bubble are in their normal positions indicating situs solitus (normal location of the abdominal viscera).\nIf the liver had been on the left and the stomach bubble on the right this would indicate situs inversus.\nThe lack of respiratory symptoms makes bronchiectasis related to Kartagener’s  syndrome unlikely.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_02.jpg": "Chest_X_Ray_Quiz_2\\question_2\\question_02.jpg",
+                    "question_02_big.jpg": "Chest_X_Ray_Quiz_2\\question_2\\question_02_big.jpg",
+                    "question_02_ro.jpg": "Chest_X_Ray_Quiz_2\\question_2\\question_02_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "question": "Which structure is visibly normal in this patient with lung cancer?",
+            "options": [
+                "Left upper zone",
+                "Left hilum",
+                "Left lower zone",
+                "Right paratracheal stripe",
+                "Right hilum"
+            ],
+            "options_count": 5,
+            "correct_answer": "Right paratracheal stripe",
+            "learning_points": "The right paratracheal stripe is well-defined and is not widened; this line can be widened if there is right paratracheal lymph node enlargement.\nBoth hila are enlarged and there is nodular consolidation in the left upper and lower zones.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_03.jpg": "Chest_X_Ray_Quiz_2\\question_3\\question_03.jpg",
+                    "question_03_big.jpg": "Chest_X_Ray_Quiz_2\\question_3\\question_03_big.jpg",
+                    "question_03_ro.jpg": "Chest_X_Ray_Quiz_2\\question_3\\question_03_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "question": "2 Images: Patient with lung cancer. Image 1 shows a right hilar mass. What complication has occurred at the time of image 2 which was acquired 4 months after image 1?",
+            "options": [
+                "Lung metastases",
+                "Phrenic nerve palsy",
+                "Right lower zone pneumonia",
+                "Right pleural effusion",
+                "Left pneumothorax"
+            ],
+            "options_count": 5,
+            "correct_answer": "Phrenic nerve palsy",
+            "learning_points": "Image 2 shows the right hilar mass has enlarged. The right hemidiaphragm is raised indicating phrenic nerve palsy due to compression or erosion by the mass.\nThere is no visible pleural effusion or pneumothorax.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_04a.jpg": "Chest_X_Ray_Quiz_2\\question_4\\question_04a.jpg",
+                    "question_04b.jpg": "Chest_X_Ray_Quiz_2\\question_4\\question_04b.jpg",
+                    "question_04a_big.jpg": "Chest_X_Ray_Quiz_2\\question_4\\question_04a_big.jpg",
+                    "question_04a_ro.jpg": "Chest_X_Ray_Quiz_2\\question_4\\question_04a_ro.jpg",
+                    "question_04b_big.jpg": "Chest_X_Ray_Quiz_2\\question_4\\question_04b_big.jpg",
+                    "question_04b_ro.jpg": "Chest_X_Ray_Quiz_2\\question_4\\question_04b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 5,
+            "question": "Patient with cough and fever. Which area is abnormal?",
+            "options": [
+                "Right upper zone",
+                "Left upper zone",
+                "Both middle zones",
+                "Right lower zone",
+                "Left lower zone"
+            ],
+            "options_count": 5,
+            "correct_answer": "Left lower zone",
+            "learning_points": "Consolidation is seen in the left lower zone; compare with the right lower zone and other areas of the lungs which are clear.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_05.jpg": "Chest_X_Ray_Quiz_2\\question_5\\question_05.jpg",
+                    "question_05_big.jpg": "Chest_X_Ray_Quiz_2\\question_5\\question_05_big.jpg",
+                    "question_05_ro.jpg": "Chest_X_Ray_Quiz_2\\question_5\\question_05_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 6,
+            "question": "Which structure is abnormal?",
+            "options": [
+                "Heart",
+                "Right hilum",
+                "Aortic knuckle",
+                "Trachea",
+                "None of the above (normal X-ray)"
+            ],
+            "options_count": 5,
+            "correct_answer": "None of the above (normal X-ray)",
+            "learning_points": "All structures are normal. This is a normal chest X-ray.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_06.jpg": "Chest_X_Ray_Quiz_2\\question_6\\question_06.jpg",
+                    "question_06_big.jpg": "Chest_X_Ray_Quiz_2\\question_6\\question_06_big.jpg",
+                    "question_06_ro.jpg": "Chest_X_Ray_Quiz_2\\question_6\\question_06_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 7,
+            "question": "Longstanding heavy smoker with a dry cough. Which statement is true?",
+            "options": [
+                "The lungs are hyperexpanded",
+                "Blunting of the costophrenic angles is due to pleural effusions",
+                "The heart is enlarged",
+                "The patient is rotated to their right",
+                "The smoking history is irrelevant to interpretation of this image"
+            ],
+            "options_count": 5,
+            "correct_answer": "The lungs are hyperexpanded",
+            "learning_points": "The costophrenic angles are blunted. This is because the lungs are hyperexpanded, as indicated by the flattened diaphragm, rather than because there are pleural effusions.\nIf anything, the patient is slightly rotated to the left.\nThe heart is not enlarged.\nThe smoking history is relevant to chest X-ray interpretation; the diagnosis of emphysema cannot be made in patients with hyperexpanded lungs unless the smoking history is known.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_07.jpg": "Chest_X_Ray_Quiz_2\\question_7\\question_07.jpg",
+                    "question_07_big.jpg": "Chest_X_Ray_Quiz_2\\question_7\\question_07_big.jpg",
+                    "question_07_ro.jpg": "Chest_X_Ray_Quiz_2\\question_7\\question_07_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 8,
+            "question": "2 IMAGES: Rapid onset shortness of breath and chest pain. A previous chest X-ray is shown for reference (image 2). Regarding image 1, which statement is FALSE?",
+            "options": [
+                "The costophrenic angles are blunt",
+                "The upper zone vessels are enlarged",
+                "The previous image is irrelevant to interpretation of this image",
+                "The image is of adequate quality",
+                "The diagnosis is consistent with heart failure"
+            ],
+            "options_count": 5,
+            "correct_answer": "The previous image is irrelevant to interpretation of this image",
+            "learning_points": "The previous image (image 2) shows the heart was enlarged. The previous image is relevant to chest X-ray interpretation and should be viewed as a matter of routine whenever interpreting a chest X-ray.\nImage 1 shows classic features of severe pulmonary oedema; the upper zone vessels are enlarged indicating pulmonary venous hypertension, bilateral shadowing indicates alveolar oedema, and bilateral costophrenic blunting indicates pleural effusions.\nThe combination of severe pulmonary oedema in a patient with previously documented cardiomegaly is consistent with the diagnosis of heart failure.",
+            "images_data": {
+                "count_base": 2,
+                "count_big": 2,
+                "count_ro": 2,
+                "downloaded_files": {
+                    "question_08a.jpg": "Chest_X_Ray_Quiz_2\\question_8\\question_08a.jpg",
+                    "question_08b.jpg": "Chest_X_Ray_Quiz_2\\question_8\\question_08b.jpg",
+                    "question_08a_big.jpg": "Chest_X_Ray_Quiz_2\\question_8\\question_08a_big.jpg",
+                    "question_08a_ro.jpg": "Chest_X_Ray_Quiz_2\\question_8\\question_08a_ro.jpg",
+                    "question_08b_big.jpg": "Chest_X_Ray_Quiz_2\\question_8\\question_08b_big.jpg",
+                    "question_08b_ro.jpg": "Chest_X_Ray_Quiz_2\\question_8\\question_08b_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 9,
+            "question": "A chest drain has been inserted to treat a large pneumothorax and a chest X-ray was requested to check its position. Which feature does the X-ray show?",
+            "options": [
+                "Normal appearances",
+                "Correctly placed chest drain",
+                "Cardiomegaly",
+                "Surgical emphysema",
+                "Inadequate image – the X-ray should be repeated"
+            ],
+            "options_count": 5,
+            "correct_answer": "Surgical emphysema",
+            "learning_points": "The chest drain is not fully inserted into the thoracic cavity and placement has been complicated by extensive surgical emphysema over the left side of the chest.\nThe heart appears enlarged but the image is Anterior-Posterior (AP) so the heart size cannot be assessed accurately.\nAlthough the right costophrenic angle is not included on the image there is no clear reason to retake the X-ray as the clinical question has been answered.",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_09.jpg": "Chest_X_Ray_Quiz_2\\question_9\\question_09.jpg",
+                    "question_09_big.jpg": "Chest_X_Ray_Quiz_2\\question_9\\question_09_big.jpg",
+                    "question_09_ro.jpg": "Chest_X_Ray_Quiz_2\\question_9\\question_09_ro.jpg"
+                }
+            }
+        },
+        {
+            "number": 10,
+            "question": "A 78-year-old woman remains in hospital 4 weeks after a stroke with residual poor swallow. She becomes short of breath with a cough, high temperature and raised inflammatory markers; none of these clinical features were present at the time of admission. The X-ray appearances are most likely caused by which complication?",
+            "options": [
+                "Lung fibrosis",
+                "Community acquired pneumonia",
+                "Aspiration pneumonia",
+                "Surgical emphysema",
+                "Heart failure"
+            ],
+            "options_count": 5,
+            "correct_answer": "Aspiration pneumonia",
+            "learning_points": "The image shows dense consolidation in the lower zones, worse on the left.\nIn this clinical context the most likely cause is an aspiration pneumonia.\nThe lack of the clinical features described at the time of admission rules out a community acquired pneumonia.\nHeart failure could cause these appearances but the cough, high temperature, and raised inflammatory markers point towards a respiratory tract infection.\nThere is no evidence of lung fibrosis or surgical emphysema.\n",
+            "images_data": {
+                "count_base": 1,
+                "count_big": 1,
+                "count_ro": 1,
+                "downloaded_files": {
+                    "question_10.jpg": "Chest_X_Ray_Quiz_2\\question_10\\question_10.jpg",
+                    "question_10_big.jpg": "Chest_X_Ray_Quiz_2\\question_10\\question_10_big.jpg",
+                    "question_10_ro.jpg": "Chest_X_Ray_Quiz_2\\question_10\\question_10_ro.jpg"
+                }
+            }
+        }
+    ]
+}

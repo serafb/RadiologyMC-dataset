@@ -1,0 +1,860 @@
+[
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q01_base.jpg",
+      "question": "Patient with abdominal pain and vomiting. What is the radiological diagnosis?",
+      "correct_answer": "Large bowel obstruction",
+      "explanation": "Dilated loops of small and large bowel are visible indicating large bowel obstruction and reflux of gas from the large to the small bowel via an incompetent ileocaecal valve.\nThe red arrows show the course of the large bowel to a point (?) beyond which no gas has passed. This is the level of obstruction.",
+      "options": "- Caecal volvulus\n- Large bowel obstruction\n- Small bowel obstruction\n- Bowel perforation\n- Normal",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q02_base.jpg",
+      "question": "What is the radiological diagnosis?",
+      "correct_answer": "Ascites",
+      "explanation": "Loops of gas-filled bowel are not dilated but seem to be clumped centrally in the abdomen. Elsewhere there is hazy increased density. These are the typical X-ray appearances of ascites.\nAlthough ascites can be diagnosed clinically, and is best confirmed with Ultrasound, occasionally the diagnosis is first suggested by a plain abdominal X-ray.",
+      "options": "- Sigmoid volvulus\n- Normal\n- Ascites\n- Small bowel obstruction\n- Pneumoperitoneum",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q03_base.jpg",
+      "question": "What is the cause of the abnormal calcification in this image?",
+      "correct_answer": "Pancreatic calcification",
+      "explanation": "Calcification of the pancreas is a feature of chronic pancreatitis.",
+      "options": "- Calcified gallstones\n- Calcified mesenteric lymph nodes\n- Pancreatic calcification\n- Malignant calcification\n- Calcified uterine fibroid",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q04_base.jpg",
+      "question": "Patient with abdominal pain, vomiting, and constipation. What is the radiological diagnosis?",
+      "correct_answer": "Caecal volvulus",
+      "explanation": "The large bowel is massively dilated, the caecal pole is displaced and the right iliac fossa (RIF) is devoid of bowel gas. These are typical appearances of caecal volvulus.",
+      "options": "- Caecal volvulus\n- Sigmoid volvulus\n- Small bowel obstruction\n- Perforation\n- Normal",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q05_base.jpg",
+      "question": "What is the cause of the area of increased density in the pelvis?",
+      "correct_answer": "Calcified uterine fibroid",
+      "explanation": "A calcified uterine fibroid is an occasional incidental finding on abdominal X-rays of female patients.",
+      "options": "- Calcified pelvic kidney\n- Calcified abdominal lymph node\n- Calcified uterine fibroid\n- Ingested barium\n- Calcified adrenal gland",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q06_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q06_base.jpg",
+      "question": "History of abdominal surgery 7 years ago. Presented with a 24 hour history of severe abdominal pain and vomiting. What is the radiological diagnosis?",
+      "correct_answer": "Small bowel obstruction",
+      "explanation": "This image shows multiple loops of dilated small bowel indicating small bowel obstruction. It is possible to determine this is small bowel dilatation as the valvulae conniventes are clearly visible and the distended loops are located centrally.",
+      "options": "- Small bowel obstruction\n- Post-operative ileus\n- Normal\n- Perforation\n- Sigmoid volvulus",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q06"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q07_base.jpg",
+      "question": "If you saw these X-ray appearances in the setting of acute abdominal pain, what would be the most appropriate course of action?",
+      "correct_answer": "Resuscitate the patient and inform the surgeons",
+      "explanation": "A large volume of free gas is present under the diaphragm. In the context of acute abdominal pain this finding indicates perforation. Emergency resuscitation and informing the surgeons would be the most appropriate action.",
+      "options": "- Place an abdominal drain\n- Request abdominal ultrasound\n- Request abdominal MRI\n- Resuscitate the patient and inform the surgeons\n- Take a break",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q08_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q08_base.jpg",
+      "question": "What are the artifacts visible?",
+      "correct_answer": "Urinary catheter and navel jewellery",
+      "explanation": "If you are unsure about the origin of artifacts on an X-ray, you can refer to previous imaging, check the notes, ask the patient, or re-examine them.",
+      "options": "- Urinary catheter and navel jewellery\n- Urinary catheter and surgical clips\n- Gastrostomy tube and surgical clips\n- Catheter and ingested foreign body\n- Gallstones and urinary catheter",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q08"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q09_base.jpg",
+      "question": "Patient with abdominal pain and vomiting. Which answer best describes the X-ray appearances?",
+      "correct_answer": "Normal",
+      "explanation": "There is no evidence of obstruction, free fluid (ascites), or free gas (pneumoperitoneum). The diagnosis of psoas abscess is not made confidently on a plain abdominal X-ray but may be suggested by loss of definition of the psoas edges which are normal in this image.",
+      "options": "- Pneumoperitoneum\n- Ascites\n- Psoas abscess\n- Small bowel obstruction\n- Normal",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_1__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_1__Q10_base.jpg",
+      "question": "Patient with abdominal pain and absolute constipation. Which answer best describes the X-ray appearances?",
+      "correct_answer": "Sigmoid volvulus",
+      "explanation": "The classic 'coffee bean' sign is present, indicating sigmoid volvulus.",
+      "options": "- Large bowel obstruction\n- Sigmoid volvulus\n- Caecal volvulus\n- Perforation\n- Small bowel obstruction",
+      "id_quiz": "Abdominal_X_Ray_Quiz_1_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q01_base.jpg",
+      "question": "Patient with severe abdominal pain. What does the image show?",
+      "correct_answer": "Rigler\u2019s/ double wall sign",
+      "explanation": "Free gas (pneumoperitoneum) can be seen on both sides of the bowel wall. This is Rigler\u2019s sign or the double wall sign.\nWhenever sharp points or triangles of low density are seen adjacent to loops of bowel, pneumoperitoneum should be suspected.\nNote:In patients with an acute abdomen an erect chest X-ray is more sensitive for small volumes of free gas.",
+      "options": "- Ascites\n- Lead pipe colon\n- Normal gas pattern\n- Rigler\u2019s/ double wall sign\n- Thumbprinting",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q02_base.jpg",
+      "question": "Patient with history of ulcerative colitis. What radiological finding is shown?",
+      "correct_answer": "Thumbprinting",
+      "explanation": "Inflammation of the bowel wall leads to thickening of the haustral folds. This results in the radiological sign of thumbprinting, a characteristic finding in patients with active ulcerative colitis.",
+      "options": "- Coffee bean sign\n- Large bowel obstruction\n- Normal appearances\n- Rigler\u2019s/ double wall sign\n- Thumbprinting",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q03_base.jpg",
+      "question": "What is the cause of the abnormal calcification?",
+      "correct_answer": "Staghorn renal calculus",
+      "explanation": "An irregularly shaped calcified area is located over the left kidney. It resembles a staghorn, hence \u2018staghorn calculus\u2019.\nThe outlines of both kidneys are quite well defined on this image.",
+      "options": "- Adrenal calcification\n- Appendicolith\n- Gallstones\n- Pancreatic calcification\n- Staghorn renal calculus",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q04_base.jpg",
+      "question": "Patient with abdominal pain. Which statement is true?",
+      "correct_answer": "There is free intra-abdominal gas visible under the left hemidiaphragm",
+      "explanation": "An erect chest X-ray is more sensitive for detection of free gas than an abdominal X-ray.\nThis image shows a small volume of free gas under the left hemidiaphragm. This may be seen following abdominal surgery, but in the context of a patient presenting with abdominal pain this finding indicates perforation.\nThis is not the stomach bubble.\nChilaiditi\u2019s syndrome \u2013 gas within a loop of bowel located between the liver and the diaphragm \u2013 is more typically seen on the right and does not result in formation of a crescent-shaped rim of gas under the diaphragm as is seen in this image.",
+      "options": "- Chest X-rays are not used in the context of acute abdominal pain\n- The image shows a good example of Chilaiditi\u2019s phenomenon\n- There is free intra-abdominal gas visible under the left hemidiaphragm\n- There is free intra-abdominal gas visible under the right hemidiaphragm\n- There is free intra-abdominal gas visible under both hemidiaphrams",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q05_base.jpg",
+      "question": "What is the cause of the abnormal calcification?",
+      "correct_answer": "Gallstones",
+      "explanation": "10-15% of gallstones are calcified sufficiently to be visible on an abdominal X-ray. They have very varied appearances and are frequently asymptomatic \u2013 as was the case in this patient.\nNote:Ultrasound is the initial investigation of choice for suspected gallstones",
+      "options": "- Appendicolith\n- Adrenal calcification\n- Gallstones\n- Pancreatic calcification\n- Staghorn renal calculus",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q06_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q06_base.jpg",
+      "question": "Patient with acute abdominal pain. What does the X-ray show?",
+      "correct_answer": "Normal appearances",
+      "explanation": "The gas pattern is normal in this image. No cause of abdominal pain is visible.",
+      "options": "- Caecal volvulus\n- Normal appearances\n- Pneumoperitoneum\n- Small bowel obstruction\n- Toxic megacolon",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q06"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q07_base.jpg",
+      "question": "24-year-old patient with suspected appendicitis. What does the image show?",
+      "correct_answer": "Small bowel obstruction",
+      "explanation": "Dilated loops of bowel with valvulae conniventes \u2013 lines crossing the full width of the bowel \u2013 indicates small bowel obstruction.",
+      "options": "- Caecal volvulus\n- Normal appearances\n- Pneumoperitoneum\n- Small bowel obstruction\n- Toxic megacolon",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q08_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q08_base.jpg",
+      "question": "Patient with severe abdominal pain. What is the cause of pain demonstrated on this abdominal X-ray?",
+      "correct_answer": "Caecal volvulus",
+      "explanation": "There is a segment of very dilated gas-filled bowel. The right iliac fossa (RIF) is empty indicating displacement of the caecum. These are typical appearances of caecal volvulus.",
+      "options": "- Caecal volvulus\n- Normal appearances\n- Pneumoperitoneum\n- Small bowel obstruction\n- Toxic megacolon",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q08"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q09_base.jpg",
+      "question": "Patient with abdominal pain. What does the image show?",
+      "correct_answer": "Bone metastases",
+      "explanation": "The bones should be checked whenever viewing an abdominal X-ray. In this image the bones of the spine and pelvis are much too dense.\nThese are the typical appearances of sclerotic bone metastases. In this case the patient had metastatic prostate cancer.",
+      "options": "- Ascites\n- Bone metastases\n- Pneumoperitoneum\n- Poor quality image which should be repeated\n- Thumbprinting",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Abdominal_X_Ray_Quiz_2__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Abdominal_X_Ray_Quiz_2__Q10_base.jpg",
+      "question": "What is the artifact shown in this image?",
+      "correct_answer": "Ureteric stent",
+      "explanation": "This patient presented with an obstructed left ureter due to a renal stone. A ureteric stent was inserted \u2013 also known as a JJ-stent or a pig-tail catheter\u2013 which passes from the renal pelvis to the bladder.\nPercutaneous nephrostomy tubes pass through the abdominal wall to the renal pelvis.",
+      "options": "- Biliary stent\n- Colonic stent\n- External tubing\n- Percutaneous nephrostomy tube\n- Ureteric stent",
+      "id_quiz": "Abdominal_X_Ray_Quiz_2_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q01_base.jpg",
+      "question": "Which finding is present on this image?",
+      "correct_answer": "Meniscus sign",
+      "explanation": "This is the classic \u2018meniscus\u2019 sign of a pleural effusion.",
+      "options": "- Normal X-ray image\n- Sail sign\n- Meniscus sign\n- Pneumothorax\n- Air bronchogram",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q02_base.jpg",
+      "question": "Which finding is present on this detail image of the left lung?",
+      "correct_answer": "Calcified pleural plaques",
+      "explanation": "These are the typical appearances of calcified pleural plaques secondary to asbestos exposure. This is different from asbestosis which is lung fibrosis secondary to asbestos exposure.",
+      "options": "- Mesothelioma\n- Asbestosis\n- Pleural effusion\n- Calcified pleural plaques\n- Normal X-ray image",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q03_base.jpg",
+      "question": "20 year old female with high temperature and cough. Which answer best describes the appearance?",
+      "correct_answer": "Consolidation",
+      "explanation": "There is no rotation; this is a good quality image in a patient with a thoracic spine scoliosis.\nIncreased density with air bronchogram in the left lower zone indicates consolidation. Compare with the clear right lower zone. A chest X-ray is not diagnostic of lung cancer and this diagnosis is very unlikely in this age group.\nThe costophrenic angles remain well-defined indicating there is no pleural effusion.",
+      "options": "- Normal\n- Image inadequate due to patient rotation\n- Pleural effusion\n- Lung cancer\n- Consolidation",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q04_base.jpg",
+      "question": "Which finding is present?",
+      "correct_answer": "Normal chest X-ray",
+      "explanation": "The heart is not enlarged. There are no features of pectus and the right upper zone (the position of the azygos vein) appears unremarkable.\nThere is gas under the diaphragm, but this is in the stomach.\nThis is a beautifully normal chest X-ray.",
+      "options": "- Normal chest X-ray\n- Cardiomegaly\n- Pectus excavatum\n- Azygos fissure\n- Free gas under the diaphragm",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q05_base.jpg",
+      "question": "Cough, weight loss and finger clubbing. Which statement is true?",
+      "correct_answer": "The lungs are hyperexpanded",
+      "explanation": "Increased density and air bronchogram in the right upper zone indicate consolidation, but no chest X-ray is in itself diagnostic of lung cancer or pneumonia. Compare with the normal left upper zone.\nThe lungs are hyperexpanded (green lines = predicted normal position) which explains the blunt appearance of the costophrenic angles; there is no pleural effusion.\nHeart size is normal.",
+      "options": "- The image is diagnostic of lung cancer\n- The image is diagnostic of pneumonia\n- Blunting of the costophrenic angles is due to pleural effusions\n- The lungs are hyperexpanded\n- The heart is enlarged",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q06_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q06_base.jpg",
+      "question": "Which finding is present?",
+      "correct_answer": "Pectus excavatum",
+      "explanation": "The right heart border is not visible. This is not because of a right middle lobe pneumonia or rotation, but rather because the heart is displaced to the left due to pectus excavatum. The ribs are angled such that they take on more of a \u20187-shape\u2019 rather than   their normal \u2018C-shape\u2019.\nEven if the right side of the heart was in line with the right edge of the spine, the heart size would still be within normal limits.\nIf you think your patient has pectus excavatum on the basis of a chest X-ray, then the diagnosis should be confirmed on clinical examination.",
+      "options": "- Normal\n- Dextrocardia\n- Pectus excavatum\n- Right middle lobe pneumonia\n- Cardiomegaly",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q06"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q07_base.jpg",
+      "question": "Which finding is present in this close up chest X-ray image?",
+      "correct_answer": "Septal lines (Kerley B lines)",
+      "explanation": "Septal lines are a subtle but very useful sign. In the context of clinically suspected heart failure they indicate interstitial pulmonary oedema.",
+      "options": "- Bronchiectasis\n- Septal lines (Kerley B lines)\n- Accessory fissures\n- Lung fibrosis\n- Normal chest X-ray",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q08_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q08_base.jpg",
+      "question": "Which statement is correct?",
+      "correct_answer": "The nasogastric tube should be removed",
+      "explanation": "The endotracheal tube tip is located approximately 3 cm above the carina. If anything, it should be withdrawn a little.\nThere is no reason to remove the right internal jugular catheter. For long term use it may be appropriate to advance further.\nThe nasogastric tube has passed down the right main bronchus into the right lung. It should be removed.\nAlthough lung markings are likely exaggerated by patient positioning and incomplete inspiration, they can\u2019t be called normal.",
+      "options": "- The X-ray is of poor quality and should be repeated\n- The endotracheal tube should be advanced\n- The Internal jugular catheter should be removed\n- The nasogastric tube should be removed\n- The lungs are normal",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q08"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q09_base.jpg",
+      "question": "Which physical examination sign would you expect to be present at that time of taking this X-ray?",
+      "correct_answer": "Right side of chest hyper-resonant to percussion",
+      "explanation": "There is a large right pneumothorax (>2 cm width at the level of the hilum). The right side of the chest would be hyper-resonant to percussion.\nThe image does not show deviation of the trachea. However, this patient would still need immediate attention.\nThere is no direct association between pneumothorax and finger clubbing.",
+      "options": "- Left sided bronchial breathing\n- Tracheal deviation\n- Right side of chest hyper-resonant to percussion\n- Normal examination findings\n- Finger clubbing",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_1__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_1__Q10_base.jpg",
+      "question": "What is the most likely cause of chest pain seen in this close-up chest X-ray image?",
+      "correct_answer": "Trauma",
+      "explanation": "Atelectasis at the left lung base may be related to any of these causes, however there is a displaced rib fracture indicating trauma.",
+      "options": "- Infection\n- Cancer\n- Trauma\n- Fibrosis\n- Sarcoidosis",
+      "id_quiz": "Chest_X_Ray_Quiz_1_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q01_base.jpg",
+      "question": "Which one statement is true? On the grounds of imaging appearances alone, the diagnosis is...",
+      "correct_answer": "Any of the above",
+      "explanation": "The image shows right lower zone consolidation. It is not possible to establish the cause without reference to the clinical scenario which is not stated.\nConsolidation can be caused by pneumonia, lung cancer, pulmonary oedema, or pulmonary haemorrhage/contusion. Alveolar proteinosis is a very rare cause. Both pulmonary oedema and alveolar proteinosis tend to cause more widespread bilateral consolidation. Any of the other causes are possible causes of the consolidation seen in this image.",
+      "options": "- Pneumonia\n- Lung cancer\n- Pulmonary contusion\n- Any of the above\n- Normal chest X-ray",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q02_base.jpg",
+      "question": "What congenital abnormality is visible in this chest X-ray of a patient with no respiratory symptoms?",
+      "correct_answer": "Dextrocardia with normal situs (situs solitus)",
+      "explanation": "The heart is on the right indicating dextrocardia. The liver and the stomach/colon bubble are in their normal positions indicating situs solitus (normal location of the abdominal viscera).\nIf the liver had been on the left and the stomach bubble on the right this would indicate situs inversus.\nThe lack of respiratory symptoms makes bronchiectasis related to Kartagener\u2019s  syndrome unlikely.",
+      "options": "- Right-sided aortic arch\n- Tetralogy of Fallot\n- Dextrocardia with bronchiectasis related to Kartagener\u2019s syndrome\n- Dextrocardia with situs inversus\n- Dextrocardia with normal situs (situs solitus)",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q03_base.jpg",
+      "question": "Which structure is visibly normal in this patient with lung cancer?",
+      "correct_answer": "Right paratracheal stripe",
+      "explanation": "The right paratracheal stripe is well-defined and is not widened; this line can be widened if there is right paratracheal lymph node enlargement.\nBoth hila are enlarged and there is nodular consolidation in the left upper and lower zones.",
+      "options": "- Left upper zone\n- Left hilum\n- Left lower zone\n- Right paratracheal stripe\n- Right hilum",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q05_base.jpg",
+      "question": "Patient with cough and fever. Which area is abnormal?",
+      "correct_answer": "Left lower zone",
+      "explanation": "Consolidation is seen in the left lower zone; compare with the right lower zone and other areas of the lungs which are clear.",
+      "options": "- Right upper zone\n- Left upper zone\n- Both middle zones\n- Right lower zone\n- Left lower zone",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q06_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q06_base.jpg",
+      "question": "Which structure is abnormal?",
+      "correct_answer": "None of the above (normal X-ray)",
+      "explanation": "All structures are normal. This is a normal chest X-ray.",
+      "options": "- Heart\n- Right hilum\n- Aortic knuckle\n- Trachea\n- None of the above (normal X-ray)",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q06"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q07_base.jpg",
+      "question": "Longstanding heavy smoker with a dry cough. Which statement is true?",
+      "correct_answer": "The lungs are hyperexpanded",
+      "explanation": "The costophrenic angles are blunted. This is because the lungs are hyperexpanded, as indicated by the flattened diaphragm, rather than because there are pleural effusions.\nIf anything, the patient is slightly rotated to the left.\nThe heart is not enlarged.\nThe smoking history is relevant to chest X-ray interpretation; the diagnosis of emphysema cannot be made in patients with hyperexpanded lungs unless the smoking history is known.",
+      "options": "- The lungs are hyperexpanded\n- Blunting of the costophrenic angles is due to pleural effusions\n- The heart is enlarged\n- The patient is rotated to their right\n- The smoking history is irrelevant to interpretation of this image",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q09_base.jpg",
+      "question": "A chest drain has been inserted to treat a large pneumothorax and a chest X-ray was requested to check its position. Which feature does the X-ray show?",
+      "correct_answer": "Surgical emphysema",
+      "explanation": "The chest drain is not fully inserted into the thoracic cavity and placement has been complicated by extensive surgical emphysema over the left side of the chest.\nThe heart appears enlarged but the image is Anterior-Posterior (AP) so the heart size cannot be assessed accurately.\nAlthough the right costophrenic angle is not included on the image there is no clear reason to retake the X-ray as the clinical question has been answered.",
+      "options": "- Normal appearances\n- Correctly placed chest drain\n- Cardiomegaly\n- Surgical emphysema\n- Inadequate image \u2013 the X-ray should be repeated",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_2__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_2__Q10_base.jpg",
+      "question": "A 78-year-old woman remains in hospital 4 weeks after a stroke with residual poor swallow. She becomes short of breath with a cough, high temperature and raised inflammatory markers; none of these clinical features were present at the time of admission. The X-ray appearances are most likely caused by which complication?",
+      "correct_answer": "Aspiration pneumonia",
+      "explanation": "The image shows dense consolidation in the lower zones, worse on the left.\nIn this clinical context the most likely cause is an aspiration pneumonia.\nThe lack of the clinical features described at the time of admission rules out a community acquired pneumonia.\nHeart failure could cause these appearances but the cough, high temperature, and raised inflammatory markers point towards a respiratory tract infection.\nThere is no evidence of lung fibrosis or surgical emphysema.\n",
+      "options": "- Lung fibrosis\n- Community acquired pneumonia\n- Aspiration pneumonia\n- Surgical emphysema\n- Heart failure",
+      "id_quiz": "Chest_X_Ray_Quiz_2_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q01_base.jpg",
+      "question": "PA image. Which of the following is not present?",
+      "correct_answer": "Left internal jugular catheter",
+      "explanation": "The heart is enlarged (cardiomegaly). Visible artifacts include sternotomy wires, prosthetic heart valves, and a pacemaker.\nThere is no left internal jugular catheter in situ; its predicated position is indicated on the overlay image.",
+      "options": "- Cardiomegaly\n- Left internal jugular catheter\n- Prosthetic heart valves\n- Pacemaker device\n- Sternotomy wires",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q02_base.jpg",
+      "question": "Athletic 24-year-old female non-smoker with palpitations. Which statement is true?",
+      "correct_answer": "The image is normal",
+      "explanation": "At first glance the lungs appear hyperexpanded, but this is an unlikely finding in a young and fit non-smoker.\nThe hemidiaphragm contours remain domed and the anterior ends of the 7th ribs intersect the mid-clavicular lines at or below the diaphragm.\nThe breasts are very slightly asymmetric; as they are in most normal subjects. Previous breast surgery is not a diagnosis made with an X-ray \u2013 ask the patient or check the notes.\nHeart size is normal.\nThere are no visible rib fractures.",
+      "options": "- The lungs are hyperexpanded\n- The heart is enlarged\n- Multiple rib fractures are visible\n- Breast asymmetry indicates a previous mastectomy\n- The image is normal",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q03_base.jpg",
+      "question": "Nasogastric tube insertion with failure of attempted aspiration of gastric fluid. What is the location of the nasogastric tube?",
+      "correct_answer": "Right lung",
+      "explanation": "Feeding through a misplaced nasogastric tube is considered a \u2018never\u2019 event.\nThis nasogastric tube has passed into the right lung; feeding in this position carries a high mortality risk.\nNote the external wires, the right internal jugular catheter, and the bilateral perihilar and left lower zone consolidation.",
+      "options": "- Stomach\n- Within a hiatus hernia\n- Right upper quadrant of abdomen\n- Right side of the mediastinum\n- Right lung",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q04_base.jpg",
+      "question": "Middle-aged male with cough, high temperature and chest pain. Where is the acute abnormality?",
+      "correct_answer": "Right lower zone",
+      "explanation": "There is consolidation of the right lower zone. This could be in the right middle or lower lobes, but this will not change management in this patient with pneumonia.\nGas under the diaphragm is in the stomach and there is no history of an acute abdomen to suggest perforation.\nNote there is a healed fracture of the left clavicle \u2013 not an acute abnormality.",
+      "options": "- Right upper zone\n- Right lower zone\n- Left upper zone\n- Left lower zone\n- Below the diaphragm",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q05_base.jpg",
+      "question": "A chest X-ray taken one hour earlier showed a large right pneumothorax.  A chest drain was inserted, and a repeat X-ray was obtained. Which statement is true?",
+      "correct_answer": "The chest drain is adequately positioned",
+      "explanation": "The pneumothorax remains big. A pneumothorax is considered big if it is wider than 2 cm at the level of the hilum.\nAlthough the tip of the tube is projected over the lung this does not mean that it has pierced the lung.\n",
+      "options": "- The pneumothorax is now small and so the chest drain can be removed\n- The chest drain is incorrectly placed and should be removed\n- The chest drain is adequately positioned\n- The chest drain has pierced the right lung and should be removed\n- The chest drain should be replaced by a larger chest drain regardless of the clinical response",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q07_base.jpg",
+      "question": "Smoker with weight loss, haemoptysis, and finger clubbing. The most likely diagnosis is...?",
+      "correct_answer": "Primary bronchogenic carcinoma",
+      "explanation": "There is a large left hilar mass which is most likely due to a bronchogenic carcinoma in this clinical context.\nThe clinical features do not point towards active infection, although on the grounds of the image alone this diagnosis should also be considered a possibility.\nSarcoidosis usually causes bilateral hilar enlargement.\nGlioblastoma metastases outside the central nervous system is rare.",
+      "options": "- Sarcoidosis\n- Glioblastoma metastasis\n- Primary bronchogenic carcinoma\n- Pneumonia\n- Normal X-ray",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q08_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q08_base.jpg",
+      "question": "What is the abnormality demonstrated radiological?",
+      "correct_answer": "Pleural effusion",
+      "explanation": "This is the classic appearance of a pleural effusion. The \u2018meniscus\u2019 sign is present which should not be mistaken for a raised hemidiaphragm as in the case of a phrenic nerve palsy.\nThe right breast appears denser because of the fluid in the right pleural cavity.\nThere is no air bronchogram.\nThe hilar structures appear normal.\nNote the sternotomy wires.",
+      "options": "- Breast asymmetry due to previous mastectomy\n- Pleural effusion\n- Air bronchogram\n- Bilateral hilar enlargement\n- Phrenic nerve palsy",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q08"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q09_base.jpg",
+      "question": "Chest pain in patient with permanent pacemaker inserted 2 months previously. Which radiological finding is present?",
+      "correct_answer": "Left mid and lower zone consolidation",
+      "explanation": "The pacemaker appears correctly positioned.\nThere is no pneumothorax.\nAlthough the heart appears enlarged the heart size cannot be accurately assessed on an anterior-posterior (AP) image.\nConsolidation is present in the left mid and lower zones; pneumonia was the cause of chest pain in this patient.",
+      "options": "- Normal image\n- Pacemaker incorrectly positioned\n- Pacemaker insertion complicated by large pneumothorax\n- Left mid and lower zone consolidation\n- Enlarged heart",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_3__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_3__Q10_base.jpg",
+      "question": "Which artifact is seen on this chest X-ray detail image?",
+      "correct_answer": "Oesophageal stent",
+      "explanation": "You may not have come across this artifact before, but an understanding of anatomy helps to determine what it is.\nThe artifact is located outside the contour of the trachea and does not follow the contour of the aorta. It does not have the appearance of sternotomy wires (see questions 1 and 8).\nAlthough the oesophagus is not visible on a chest X-ray this artifact follows its contour exactly. It is an oesophageal stent, placed to alleviate dysphagia related to an oesophageal tumour.",
+      "options": "- Oesophageal stent\n- Aortic stent\n- Inhaled foreign body\n- Sternotomy wires\n- Tracheal stent",
+      "id_quiz": "Chest_X_Ray_Quiz_3_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q01_base.jpg",
+      "question": "Regarding this X-ray - the most likely diagnosis is\u2026",
+      "correct_answer": "Primary bronchogenic lung carcinoma",
+      "explanation": "There is a large rounded area of increased density in the right lower zone, and enlargement of the right hilar structures.\nSarcoidosis usually causes bilateral hilar enlargement and areas of consolidation.\nMesothelioma usually presents with signs of pleural disease such as a pleural effusion or pleural thickening.\nLung volumes are normal and there is no evidence of reticulation (net-like appearance) of the lungs, so fibrosis is an unlikely cause.\nA thymoma usually causes widening of the upper mediastinum which appears normal in this image.\nThe area of density in the right lung base is due to a lung mass and the enlarged right hilum is due to enlarged lymph nodes in this area. The most likely diagnosis is a primary bronchogenic carcinoma.",
+      "options": "- Sarcoidosis\n- Mesothelioma\n- Pulmonary fibrosis\n- Thymoma\n- Primary bronchogenic lung carcinoma",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q02_base.jpg",
+      "question": "55-year-old male. Which is the most likely clinical scenario?",
+      "correct_answer": "The patient has smoked heavily for many years",
+      "explanation": "Gas under the left hemidiaphragm is contained within the bowel \u2013 there is no evidence of perforation.\nThe hemidiaphragms are flattened and located below the level of the 7th ribs indicating the lungs are hyperexpanded. The lungs also appear of generalised low density. These are features of emphysema and so a history of long-term smoking is likely \u2013 35 years in this patient.\nHyper-resonance would likely be bilateral in this patient.\nThe heart is not enlarged.\n",
+      "options": "- Clinically suspected bowel perforation\n- The patient has smoked heavily for many years\n- Unilateral hyper-resonance to percussion\n- Long history of cardiomegaly\n- Multiple previous exposures to asbestos",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q04_base.jpg",
+      "question": "On seeing this chest X-ray, which of the following actions is most appropriate?",
+      "correct_answer": "Immediately return to reassess the patient and alert your team of the X-ray findings",
+      "explanation": "This is a large left pneumothorax (greater than 2 cm width at the level of the hilum). There is also evidence of tension \u2013 the trachea and right heart border are shifted to the right and there is slight depression of the left hemidiaphragm.\nThis is a medical emergency requiring the immediate attention of you and your team.",
+      "options": "- Immediately return to reassess the patient and alert your team of the X-ray findings\n- Request a CT of the chest with intravenous contrast\n- Request an ultrasound of the abdomen\n- No action is necessary \u2013 the image is normal\n- Request a repeat X-ray \u2013 it is under-penetrated",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q05_base.jpg",
+      "question": "29-year-old male \u2013 recent onset cough and pleuritic chest pain. What is the radiological diagnosis?",
+      "correct_answer": "Normal heart and lungs",
+      "explanation": "This chest X-ray shows normal appearances of the heart and lungs. There is no evidence of pulmonary fibrosis, sarcoidosis, or surgical emphysema. A left clavicle fracture is not recent.",
+      "options": "- A recently fractured bone\n- Pulmonary fibrosis\n- Sarcoidosis\n- Surgical emphysema\n- Normal heart and lungs",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q07_base.jpg",
+      "question": "What are the chest X-ray appearances most likely due to in this patient with a cough and night sweats?",
+      "correct_answer": "Tuberculosis",
+      "explanation": "Consolidation of the right upper zone is accompanied by enlargement of the right hilum. These are typical appearances of primaryMycobacterium tuberculosisinfection.\nPulmonary oedema is a cause of consolidation, but distribution is usually bilateral and affects the perihilar or lower parts of the lungs.\nPrevious spontaneous pneumothorax does not usually leave any signs of abnormality in the lung affected.\nAlthough sarcoidosis does cause hilar enlargement and parenchymal disease, these changes are usually bilateral.\nPrimary lung cancer is a differential in this case, but the appearances do not suggest lung metastases.",
+      "options": "- Pulmonary oedema\n- Lung metastases\n- Tuberculosis\n- Previous spontaneous pneumothorax\n- Sarcoidosis",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q08_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q08_base.jpg",
+      "question": "Which of the following features is present?",
+      "correct_answer": "Hiatus hernia",
+      "explanation": "There is a round area projected over the lower mediastinum due to the stomach passing superiorly through the hiatal orifice into the thorax \u2013 a hiatus hernia. Within this area superiorly there is low density (asterisks) which represents gas in the herniated stomach.\nThe heart contours are normal and the costophrenic angles are well-defined.",
+      "options": "- Dextrocardia\n- Bilateral pleural effusions\n- Pericardial effusion\n- Hiatus hernia\n- Normal chest X-ray",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q08"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q09_base.jpg",
+      "question": "Which statement is TRUE?",
+      "correct_answer": "The image shows a finding which could be explained by recent laparoscopic surgery",
+      "explanation": "There is a thin crescent-shaped low-density line under the right hemidiaphragm indicating free gas in the abdomen. This appearance can be due to perforation of an abdominal viscus or may be due to residual intra-abdominal gas following laparoscopic surgery.\nThe normal stomach bubble is seen on the left.\nWhen considering imaging with CT the clinical context must always be considered. It is a high radiation dose investigation, so should be avoided if not necessary.\nA systematic approach is always required.\nThe image is diagnostic and so should not be repeated.\nThe heart is not enlarged.",
+      "options": "- The image shows a finding which could be explained by recent laparoscopic surgery\n- Urgent CT scanning is required regardless of the clinical context\n- The abnormality is obvious and so a systematic approach is not required\n- The image is of poor quality and should be discarded and repeated\n- The heart is enlarged",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Chest_X_Ray_Quiz_4__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Chest_X_Ray_Quiz_4__Q10_base.jpg",
+      "question": "(Detail image.) The radiological feature shown is\u2026",
+      "correct_answer": "\u2026 a sign of interstitial pulmonary oedema",
+      "explanation": "Septal lines (Kerley B lines) are seen at the lung base. Thickening of these lines such that they become visible is caused by fluid in the interlobular septa. This is a sign of interstitial pulmonary oedema in the context of suspected heart failure.\nThickened septal lines can also be seen in sarcoidosis and lymphangitis carcinomatosa.",
+      "options": "- \u2026 diagnostic of sarcoidosis\n- \u2026 not a significant finding in the context of suspected heart failure\n- \u2026 diagnostic of lymphangitis carcinomatosa\n- \u2026 a normal variant\n- \u2026 a sign of interstitial pulmonary oedema",
+      "id_quiz": "Chest_X_Ray_Quiz_4_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q01_base.jpg",
+      "question": "Patient with longstanding history of intermittent headache. What does the image show?",
+      "correct_answer": "Normal appearances",
+      "explanation": "No abnormality is visible. The foci of high density within the lateral ventricles represent calcification of the choroid plexus \u2013 a normal finding in adults.",
+      "options": "- Subdural collection\n- Subarachnoid haemorrhage\n- Normal appearances\n- Cerebral atrophy\n- Interventricular haemorrhage",
+      "id_quiz": "CT_Brain_Quiz_1_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q02_base.jpg",
+      "question": "History of head injury. Patient unconscious. Which statement is true?",
+      "correct_answer": "Changing window settings would help clarify the diagnosis",
+      "explanation": "Image quality is often sub-optimal in acutely unwell patients. An attempt at diagnosis should still be made.\nThe image demonstrates a subdural collection on the right. In the context of head injury, the crescent-shaped layer of bright material seen over the right cerebral hemisphere represents a recent bleed \u2013 a subdural haematoma.\nMass effect is visible. The right lateral ventricle is effaced and there is shift of midline structures to the left.\nThe roll-over image demonstrates an altered window setting which makes it much easier to see the blood separate from the brain and skull.\nAlthough subdural and subarachnoid bleeding may coexist there is no evidence of subarachnoid blood in this image.\nAnticoagulation is a risk factor for intracranial bleeding of all kinds.",
+      "options": "- The scan is of insufficient quality to make a diagnosis and so should be repeated\n- There is no evidence of mass effect\n- The scan shows subarachnoid haemorrhage\n- Changing window settings would help clarify the diagnosis\n- A history of anticoagulation is irrelevant in this setting",
+      "id_quiz": "CT_Brain_Quiz_1_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q03_base.jpg",
+      "question": "Patient with a sudden onset of hemianopia. What does this pre-contrast CT brain image demonstrate?",
+      "correct_answer": "Left occipital intracerebral haemorrhage",
+      "explanation": "These are the typical appearances of a primary intracerebral haemorrhage. Central high-density acute blood (blue area) is surrounded by low density oedema (red area).\nThe pineal gland is calcified \u2013 a normal finding.\nNo contrast has been given and so the high density does not represent an enhancing mass\nThe basal ganglia and internal capsule areas appear normal",
+      "options": "- Basal ganglia infarct\n- Left occipital intracerebral haemorrhage\n- Abnormal calcification\n- An enhancing mass\n- Acute haemorrhage in the left basal ganglia",
+      "id_quiz": "CT_Brain_Quiz_1_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q05_base.jpg",
+      "question": "Patient with history of recent head injury. What does this scan show?",
+      "correct_answer": "Scalp haematoma",
+      "explanation": "These are the typical appearances of a scalp haematoma.\nThere is no evidence of intracerebral haemorrhage.\nThe image is set to \u2018brain windows\u2019 so it is not possible to see a skull fracture. To see a skull fracture the window settings should be set to view the bones.",
+      "options": "- Intracerebral haemorrhage\n- Scalp haematoma\n- Parafalcine extra-axial haemorrhage\n- Subarachnoid haemorrhage\n- Skull fracture",
+      "id_quiz": "CT_Brain_Quiz_1_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q07_base.jpg",
+      "question": "Elderly patient with confusion and history of falls. Which abnormality is present?",
+      "correct_answer": "Low density of cerebral white matter",
+      "explanation": "Patchy low density of cerebral white matter is a sign of chronic small vessel disease.\nThere are no well-defined foci of low density.\nThere is no well-defined area of low density of grey and white matter in a territorial distribution to indicate the presence of an old territorial infarct.\nNo subdural collection is present.",
+      "options": "- Multiple well-defined foci of low density diagnostic of brain metastases\n- Lacunar infarcts\n- Old territorial infarct\n- Bilateral chronic subdural collections\n- Low density of cerebral white matter",
+      "id_quiz": "CT_Brain_Quiz_1_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q09_base.jpg",
+      "question": "Which clinical feature(s) would you expect to be present in this patient?",
+      "correct_answer": "Recent onset of right hemiparesis",
+      "explanation": "A large area of low density is seen in the grey and white matter of the left cerebral hemisphere indicating a large middle cerebral artery territory infarct. It is possible to determine that the infarct is recent; in the case of old infarcts the low density would be similar to that of the CSF in the ventricles.\nClinically the patient would have a significant neurological deficit in accordance to the anatomical area affected. In this case the patient would have a right hemiparesis.\nThe patient could also have cerebellar signs, if the posterior circulation was also affected, but this would not be an isolated clinical feature in this case.",
+      "options": "- Asymptomatic with no focal neurological deficit\n- Recent onset of right hemiparesis\n- Recent onset of isolated left cerebellar signs\n- History of old territorial infarct\n- Normal power in both arms and reduced power in both legs",
+      "id_quiz": "CT_Brain_Quiz_1_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_1__Q10_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_1__Q10_base.jpg",
+      "question": "Non-contrast CT brain: Patient found unconscious. Which finding is visible?",
+      "correct_answer": "Abnormal high-density material in the subarachnoid space",
+      "explanation": "High density material in the subarachnoid spaces (the sulci, fissures and ventricular system) indicates acute subarachnoid haemorrhage.\nThere is no evidence of acute intracerebral haemorrhage, subdural collections, or reduced brain volume. There is no intracerebral calcification visible.",
+      "options": "- Normal calcification of the choroid plexus\n- Abnormal high-density material in the subarachnoid space\n- Acute intracerebral haemorrhage\n- Reduced brain volume\n- Bilateral subdural collections",
+      "id_quiz": "CT_Brain_Quiz_1_Q10"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q01_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q01_base.jpg",
+      "question": "Non-contrast CT brain: History of hypertension and sudden onset of left facial droop. What does the image show?",
+      "correct_answer": "Intracerebral haemorrhage",
+      "explanation": "The image shows a large area of high density in the right frontal lobe due to acute bleeding. The CT was non-contrast and so this can\u2019t be an enhancing mass.\nIts position indicates it is in the brain (intra-axial) rather than extra-axial, so subarachnoid and subdural haemorrhage are ruled out.\nThe focus of high density in the posterior horn of the right lateral ventricle is the calcified choroid plexus, a normal finding.",
+      "options": "- Subarachnoid haemorrhage\n- Subdural haemorrhage\n- Intraventricular haemorrhage\n- Intracerebral haemorrhage\n- Enhancing mass",
+      "id_quiz": "CT_Brain_Quiz_2_Q01"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q02_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q02_base.jpg",
+      "question": "Poor historian with increasing confusion over several weeks. What does the image show?",
+      "correct_answer": "Bilateral subdural collections",
+      "explanation": "The left-sided subdural collection is easy to see. There is also a thin subdural collection on the right.\nIf you see one abnormality, don\u2019t forget to continue viewing the scan systematically.",
+      "options": "- Left subdural collection\n- Subarachnoid haemorrhage\n- Brain atrophy without evidence of haemorrhage\n- Bilateral subdural collections\n- Intraventricular haemorrhage",
+      "id_quiz": "CT_Brain_Quiz_2_Q02"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q03_base.jpg",
+      "question": "Post contrast CT brain: Patient with colon cancer. What is the most likely diagnosis?",
+      "correct_answer": "Two enhancing metastases",
+      "explanation": "In a patient with a known malignancy a mass in the brain is most likely due to metastatic disease. Two primary lesions occurring simultaneously, benign or malignant, is rare.\nThe image shows enhancement of normal vessels as well as the enhancing masses.\nThere is no evidence of subarachnoid haemorrhage.",
+      "options": "- Two benign meningiomas\n- Two enhancing metastases\n- Two primary brain tumours\n- Subarachnoid haemorrhage\n- Two areas of normal calcification",
+      "id_quiz": "CT_Brain_Quiz_2_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q04_base.jpg",
+      "question": "Non-contrast CT brain: Anticoagulated patient with sudden onset of confusion and right hemiparesis. What does the image show?",
+      "correct_answer": "Intraventricular haemorrhage",
+      "explanation": "High density material fills the left lateral ventricle. This is blood which extended from an intracerebral haemorrhage of the adjacent peri-ventricular white matter.",
+      "options": "- Subdural haemorrhage\n- Intraventricular haemorrhage\n- Epidural haemorrhage\n- Enhancing mass\n- Calcification of the choroid plexus",
+      "id_quiz": "CT_Brain_Quiz_2_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q05_base.jpg",
+      "question": "What does the image show?",
+      "correct_answer": "Depressed skull fracture",
+      "explanation": "This CT brain image on bone window settings shows a depressed skull fracture.\nRemember to look at both the brain windows and the bone windows on all CT images of the brain.",
+      "options": "- Depressed skull fracture\n- Poor quality scan of the brain which should be repeated\n- Normal variant of skull sutures\n- Movement artifact\n- Subarachnoid haemorrhage",
+      "id_quiz": "CT_Brain_Quiz_2_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q06_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q06_base.jpg",
+      "question": "Non-contrast CT Brain: Sudden onset severe headache. What does the image show?",
+      "correct_answer": "Subarachnoid haemorrhage",
+      "explanation": "Increased density material seen in the subarachnoid space indicates acute haemorrhage.\nAlthough subarachnoid bleeding can extend into the ventricles, the ventricles do not contain blood in this image.",
+      "options": "- Subdural haematoma\n- Subarachnoid haemorrhage\n- Intraventricular haemorrhage\n- Extradural haematoma\n- Intracerebral haemorrhage",
+      "id_quiz": "CT_Brain_Quiz_2_Q06"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/CT_Brain_Quiz_2__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/CT_Brain_Quiz_2__Q07_base.jpg",
+      "question": "Alcoholic found unconscious. What does the image show?",
+      "correct_answer": "Extradural haematoma",
+      "explanation": "This image shows lentiform increased density material indicating acute blood in the extra-axial space (not in the brain). These are the typical appearances of an extradural haematoma.",
+      "options": "- Subdural haematoma\n- Subarachnoid haemorrhage\n- Intraventricular haemorrhage\n- Extradural haematoma\n- Intracerebral haemorrhage",
+      "id_quiz": "CT_Brain_Quiz_2_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q03_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q03_base.jpg",
+      "question": "Patient confused. Fall. Pain in hip. AP view of the pelvis.",
+      "correct_answer": "Injury",
+      "explanation": "Intertrochanteric fracture of the left hip.",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q03"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q05_base.jpg",
+      "question": "Twisting injury to ankle. Pain and tenderness. Unable to walk. Single AP view (other views were normal).",
+      "correct_answer": "Injury",
+      "explanation": "Transverse fracture of the medial malleolus.",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q09_base.jpg",
+      "question": "Fall. Painful hip and unable to walk.",
+      "correct_answer": "Injury",
+      "explanation": "Fracture of the neck of femur. Shenton\u2019s line is disrupted and the femoral head overlaps the femoral neck.",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q09"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q04_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q04_base.jpg",
+      "question": "Fall on outstretched hand. Painful and tender forearm. AP and Lateral views.",
+      "correct_answer": "Injury",
+      "explanation": "Greenstick fracture of the radius",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q04"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q06_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q06_base.jpg",
+      "question": "Fall on outstretched hand with elbow extended. Pain and reduced movement. AP and Lateral views.",
+      "correct_answer": "Injury",
+      "explanation": "Supracondylar fracture\nElbow joint effusion (raised fat pads)",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q06"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q07_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q07_base.jpg",
+      "question": "10-year-old patient. Fall onto elbow. Pain and reduced movement. AP and Lateral views.",
+      "correct_answer": "No injury",
+      "explanation": "Normal 10-year-old elbow.\nThe following ossification centres are visible:Capitulum,Radial head,Internal (medial) epicondyle,Trochlea,Olecranon.\nThe external (Lateral) epicondyle is yet to develop.",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q07"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q08_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q08_base.jpg",
+      "question": "Fall on outstretched hand. Pain and reduced movement. Single AP view.",
+      "correct_answer": "Injury",
+      "explanation": "Scaphoid waste fracture.",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q08"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q05_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q05_base.jpg",
+      "question": "Flexion/extension injury to neck. Single open-mouth odontoid peg views (other views were normal).",
+      "correct_answer": "No injury",
+      "explanation": "This view shows normal alignment of the lateral masses of C1 and C2.\nThere is no fracture.",
+      "options": "- Injury\n- No injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q05"
+    }
+  },
+  {
+    "data": {
+      "image_reference": "/data/local-files/?d=images_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q09_ro.jpg",
+      "image_target": "/data/local-files/?d=images_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q09_base.jpg",
+      "question": "Injury to wrist. Pain and swelling. Single Lateral view. (The DP view was normal.)",
+      "correct_answer": "Injury",
+      "explanation": "Triquetrum fracture with dorsal soft tissue swelling.",
+      "options": "- Injury\n- Non injury",
+      "id_quiz": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q09"
+    }
+  }
+]

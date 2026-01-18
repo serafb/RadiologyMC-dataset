@@ -310,9 +310,9 @@
   "label": [
     {
       "x": 45,
-      "y": 42,
+      "y": 43,
       "width": 8,
-      "height": 10,
+      "height": 9,
       "rotation": 0,
       "rectanglelabels": [
         "ROI"
@@ -321,10 +321,10 @@
       "original_height": 581
     },
     {
-      "x": 41,
+      "x": 47,
       "y": 77,
-      "width": 12,
-      "height": 23,
+      "width": 8,
+      "height": 5,
       "rotation": 0,
       "rectanglelabels": [
         "ROI"
@@ -336,8 +336,8 @@
   "annotator": 1,
   "annotation_id": 45,
   "created_at": "2026-01-14T16:49:02.734642Z",
-  "updated_at": "2026-01-16T16:55:37.202406Z",
-  "lead_time": 61.882
+  "updated_at": "2026-01-18T19:56:35.276314Z",
+  "lead_time": 158.064
 },
 {
   "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/refs\/heads\/main\/images_clean\/Abdominal_X_Ray_Quiz_1__Q09_base.jpg",
@@ -739,7 +739,7 @@
       "x": 37,
       "y": 80,
       "width": 26,
-      "height": 12,
+      "height": 15,
       "rotation": 0,
       "rectanglelabels": [
         "ROI"
@@ -787,8 +787,8 @@
   "annotator": 1,
   "annotation_id": 56,
   "created_at": "2026-01-14T22:58:54.570201Z",
-  "updated_at": "2026-01-16T17:15:22.594760Z",
-  "lead_time": 800.454
+  "updated_at": "2026-01-18T19:57:40.937034Z",
+  "lead_time": 817.708
 },
 {
   "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/refs\/heads\/main\/images_clean\/Abdominal_X_Ray_Quiz_2__Q10_base.jpg",

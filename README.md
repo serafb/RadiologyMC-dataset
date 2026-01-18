@@ -12,5 +12,6 @@ Dataset di quiz radiologici estratto da [Radiology Masterclass](https://www.radi
 > I file `tasks.json` e `annotation_radiology.csv` / `.json` contengono gli URL diretti alle immagini ospitate in questo repository. In questo modo è possibile visualizzare i dati in Label Studio istantaneamente, senza dover configurare storage locali o cloud esterni.
 
 ## Utilizzo
-
-Per visualizzare o modificare le annotazioni, importare il file `tasks.json` oppure `annotation_radiology.csv` / `.json` in un nuovo progetto su [Label Studio](https://labelstud.io/).
+Importare uno dei seguenti file in un nuovo progetto su [Label Studio](https://labelstud.io/):
+* Per visualizzare o modificare le annotazioni esistenti, importare il file  `annotation_radiology.csv` / `.json` (immagini con bounding box)
+* Per creare nuove annotazioni da zero, importare il file `tasks.json`. (immagini originali senza bounding box)

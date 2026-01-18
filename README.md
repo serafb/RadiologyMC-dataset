@@ -13,5 +13,5 @@ Dataset di quiz radiologici estratto da [Radiology Masterclass](https://www.radi
 
 ## Utilizzo
 Importare uno dei seguenti file in un nuovo progetto su [Label Studio](https://labelstud.io/):
-* Per visualizzare o modificare le annotazioni esistenti, importare il file  `annotation_radiology.csv` / `.json` (immagini con bounding box)
-* Per creare nuove annotazioni da zero, importare il file `tasks.json`. (immagini originali senza bounding box)
+* Per visualizzare o modificare le annotazioni esistenti, importare il file  `annotation_radiology.csv` / `.json`
+* Per creare nuove annotazioni da zero, importare il file `tasks.json`

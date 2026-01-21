@@ -4,6 +4,7 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Chest_X_Ray_Quiz_2__Q04_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Chest_X_Ray_Quiz_2__Q04_MERGED_ro.jpg",
       "question": "2 Images: Patient with lung cancer. Image 1 shows a right hilar mass. What complication has occurred at the time of image 2 which was acquired 4 months after image 1?",
+      "options": "Lung metastases | Phrenic nerve palsy | Right lower zone pneumonia | Right pleural effusion | Left pneumothorax",
       "correct_answer": "Phrenic nerve palsy",
       "explanation": "Image 2 shows the right hilar mass has enlarged. The right hemidiaphragm is raised indicating phrenic nerve palsy due to compression or erosion by the mass.\nThere is no visible pleural effusion or pneumothorax.",
       "options": "",
@@ -15,9 +16,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Chest_X_Ray_Quiz_2__Q08_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Chest_X_Ray_Quiz_2__Q08_MERGED_ro.jpg",
       "question": "2 IMAGES: Rapid onset shortness of breath and chest pain. A previous chest X-ray is shown for reference (image 2). Regarding image 1, which statement is FALSE?",
+      "options": "The costophrenic angles are blunt | The upper zone vessels are enlarged | The previous image is irrelevant to interpretation of this image | The image is of adequate quality | The diagnosis is consistent with heart failure",
       "correct_answer": "The previous image is irrelevant to interpretation of this image",
       "explanation": "The previous image (image 2) shows the heart was enlarged. The previous image is relevant to chest X-ray interpretation and should be viewed as a matter of routine whenever interpreting a chest X-ray.\nImage 1 shows classic features of severe pulmonary oedema; the upper zone vessels are enlarged indicating pulmonary venous hypertension, bilateral shadowing indicates alveolar oedema, and bilateral costophrenic blunting indicates pleural effusions.\nThe combination of severe pulmonary oedema in a patient with previously documented cardiomegaly is consistent with the diagnosis of heart failure.",
-      "options": "",
       "id_source": "Chest_X_Ray_Quiz_2_Q08"
     }
   },
@@ -26,9 +27,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Chest_X_Ray_Quiz_3__Q06_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Chest_X_Ray_Quiz_3__Q06_MERGED_ro.jpg",
       "question": "2 IMAGES: Image 1 - full-sized image. Image 2 - detail image. Patient with chest pain. Which statement is true?",
+      "options": "Chest X-rays are not required routinely in the setting of clinically suspected uncomplicated rib fractures | There is no cause of chest pain demonstrated on these images | A normal chest X-ray excludes rib fractures | This image shows blunting of the left costophrenic angle indicating a haemothorax | The patient is rotated and so the image is non-diagnostic",
       "correct_answer": "Chest X-rays are not required routinely in the setting of clinically suspected uncomplicated rib fractures",
       "explanation": "Chest X-rays are not required routinely in the setting of uncomplicated clinically suspected rib fractures but can be requested if there is clinical suspicion of a complication such as a pneumothorax or haemothorax.\nThe detail image shows a rib fracture on the left.\nThe costophrenic angles are well-defined indicating there is no haemothorax.\nAlthough the patient is a little rotated, a cause of chest pain – the rib fracture – is demonstrated so the image can be considered diagnostic.",
-      "options": "",
       "id_source": "Chest_X_Ray_Quiz_3_Q06"
     }
   },
@@ -37,9 +38,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Chest_X_Ray_Quiz_4__Q06_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Chest_X_Ray_Quiz_4__Q06_MERGED_ro.jpg",
       "question": "(2 Images: One with and one without marking.) What does the anatomical line marked on image 2 represent?",
+      "options": "The anterior junctional line | The right heart border | The right paratracheal stripe | The azygo-oesophageal line | The descending thoracic aorta",
       "correct_answer": "The azygo-oesophageal line",
       "explanation": "This is the azygo-oesophageal line. This line is formed by the contrast of the low-density lung at its interface with the relatively higher density soft tissues of the mediastinum formed by the vertically-orientated oesophagus and azygos vein.",
-      "options": "",
       "id_source": "Chest_X_Ray_Quiz_4_Q06"
     }
   },
@@ -50,7 +51,6 @@
       "question": "(Pre and post contrast images): Which description most accurately describes the findings on these two images?",
       "correct_answer": "Areas of abnormally low density surrounded by enhancement post IV-contrast",
       "explanation": "A very large irregularly-shaped area of abnormally low density is present in the left cerebral hemisphere. This is causing mass effect evidenced by the effacement of the sulci on this side of the brain and shift of midline structures.\nThe post-contrast image shows enhancement of brain tissue surrounding the low density area.\nThis mass lesion appears intra-axial (intracerebral) rather than extra-axial (outside the brain).\nAlthough it is possible that a metastasis has this appearance, there is only one lesion and so it is not ‘multiple’.\nThe appearances are not consistent with an acute primary intracerebral haemorrhage which would be of high density (white) on the pre-contrast image.",
-      "options": "",
       "id_source": "CT_Brain_Quiz_1_Q04"
     }
   },
@@ -59,6 +59,7 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/CT_Brain_Quiz_1__Q06_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/CT_Brain_Quiz_1__Q06_MERGED_ro.jpg",
       "question": "(Pre and post contrast CT images of the brain show cerebral metastasis): What else is present?",
+      "options": "Abnormal low density of white matter representing cerebral oedema | Areas of high density representing recent subarachnoid bleeding | Areas of high density representing recent subdural bleeding | Areas of high density representing recent intracerebral bleeding | Areas of normal intracerebral calcification",
       "correct_answer": "Abnormal low density of white matter representing cerebral oedema",
       "explanation": "A small rounded focus of slightly high density on the pre-contrast image enhances on the post-contrast image. The post-contrast image also shows multiple other foci of enhancement. These are typical appearances of brain metastases.\nBoth the pre and post-IV contrast images show a large area of abnormally low density within white matter due to cerebral oedema.\nAcute bleeding results in areas of high density on the pre-contrast image which would not enhance post contrast.\nThere is no intracerebral calcification visible on these CT images.",
       "options": "",
@@ -70,9 +71,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/CT_Brain_Quiz_1__Q08_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/CT_Brain_Quiz_1__Q08_MERGED_ro.jpg",
       "question": "CT brain on bone window settings - 2 images: Which anatomical structure is highlighted in orange on image 2?",
+      "options": "Sphenoid sinus | Ethmoid air cell | Mastoid air cell | Pituitary fossa | Frontal sinus",
       "correct_answer": "Sphenoid sinus",
       "explanation": "The sinuses of the skull contain air and so are completely black on CT; they have the same density as the air surrounding the head.\nThe sphenoid sinus is highlighted in orange (roll-over image). It has very variable appearance and can be split into two or more compartments.\nThe pituitary fossa (not visible) contains the pituitary gland which is of similar density to the brain.\nSome of the other sinuses and air cells of the skull are highlighted.",
-      "options": "",
       "id_source": "CT_Brain_Quiz_1_Q08"
     }
   },
@@ -81,9 +82,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/CT_Brain_Quiz_2__Q08_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/CT_Brain_Quiz_2__Q08_MERGED_ro.jpg",
       "question": "2 CT brain images, pre and post-contrast: Patient with worsening headache. Which finding is NOT present?",
+      "options": "Ventricular effacement | Sulcal effacement | Mass with central enhancement | Mass with peripheral enhancement | White matter oedema",
       "correct_answer": "Mass with central enhancement",
       "explanation": "A large mass in the left cerebral hemisphere is causing mass effect with effacement of the sulci and left lateral ventricle (asterisk).\nLow density surrounding the mass indicates vasogenic oedema of white matter.\nThe mass enhances peripherally but not centrally. The central portion of the mass is avascular due to cell necrosis.\nNote:Abscess is a differential diagnosis",
-      "options": "",
       "id_source": "CT_Brain_Quiz_2_Q08"
     }
   },
@@ -92,9 +93,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/CT_Brain_Quiz_2__Q09_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/CT_Brain_Quiz_2__Q09_MERGED_ro.jpg",
       "question": "2 CT brain images, brain and bone window settings:  What do these images show?",
+      "options": "Abnormal brain not compatible with life | Severe skull fracturing | Multiple areas of extra-axial haemorrhage | Movement artifact | Calcification of scalp soft tissues",
       "correct_answer": "Movement artifact",
       "explanation": "This elderly patient presented with confusion and he could not co-operate with instructions to keep still in the CT scanner.\nThe images have been acquired while the patient is shaking his head. Image quality is non-diagnostic.\nA repeat scan later showed no acute abnormality. The confusion was due to a urinary infection, a much more common cause of confusion in elderly patients than intracranial pathology.",
-      "options": "",
       "id_source": "CT_Brain_Quiz_2_Q09"
     }
   },
@@ -103,9 +104,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/CT_Brain_Quiz_2__Q10_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/CT_Brain_Quiz_2__Q10_MERGED_ro.jpg",
       "question": "2 CT brain images, pre and post-contrast: Patient with worsening postural headache and cerebellar signs. What is the most likely diagnosis?",
+      "options": "Subdural collection | Subarachnoid haemorrhage | Intraventricular haemorrhage | Extradural haematoma | Posterior fossa meningioma",
       "correct_answer": "Posterior fossa meningioma",
       "explanation": "These are typical appearances of a meningioma.\nThis enhancing mass arises from the dura mater; in this case from the tentorium cerebelli, a sheet of dura mater which separates the posterior fossa structures from the rest of the brain.\nThe mass compresses the adjacent cerebellum.",
-      "options": "",
       "id_source": "CT_Brain_Quiz_2_Q10"
     }
   },
@@ -114,9 +115,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q01_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q01_MERGED_ro.jpg",
       "question": "Twisted ankle. Pain medially and laterally. AP and lateral views.",
+      "options": "Injury | No injury",
       "correct_answer": "No injury",
       "explanation": "No bone injury. Alignment of all the joints   is normal. No soft tissue swelling.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q01"
     }
   },
@@ -125,9 +126,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q02_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q02_MERGED_ro.jpg",
       "question": "Twisting injury. Painful foot. DP and oblique views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Fracture of the fifth metatarsal shaft.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q02"
     }
   },
@@ -136,9 +137,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q04_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q04_MERGED_ro.jpg",
       "question": "Hyperextension injury to knee. Pain and tenderness medially. AP and lateral views.",
+      "options": "Injury | No Injury",
       "correct_answer": "No Injury",
       "explanation": "No fracture. Normal soft tissues. Normal knee joint alignment.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q04"
     }
   },
@@ -147,9 +148,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q06_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q06_MERGED_ro.jpg",
       "question": "Direct trauma to toes. Pain and tenderness. DP and oblique views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Transverse fracture of the fourth toe proximal phalanx with minor valgus angulation.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q06"
     }
   },
@@ -158,9 +159,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q07_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q07_MERGED_ro.jpg",
       "question": "Direct trauma to the lateral side of the knee.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Subtle tibial fracture with lipohaemarthorsis",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q07"
     }
   },
@@ -169,9 +170,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q08_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q08_MERGED_ro.jpg",
       "question": "Direct trauma to foot. Painful metatarsals. DP and oblique images.",
+      "options": "Injury | No injury",
       "correct_answer": "No injury",
       "explanation": "Normal 5th metatarsal apophysis.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q08"
     }
   },
@@ -180,9 +181,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Lower_Limb__Q10_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Lower_Limb__Q10_MERGED_ro.jpg",
       "question": "Dropped heavy weight on foot. Painful foot. Tender metatarsals.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Break in the cortex of the fourth metatarsal distally.\nThe fracture is more easily seen on the DP view and is barely visible on the oblique image.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q10"
     }
   },
@@ -191,9 +192,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q01_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q01_MERGED_ro.jpg",
       "question": "Punch injury to hand.  DP and Oblique views.",
+      "options": "No injury | Injury",
       "correct_answer": "Injury",
       "explanation": "Oblique fracture of the little finger metacarpal.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q01"
     }
   },
@@ -202,9 +203,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q02_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q02_MERGED_ro.jpg",
       "question": "Fall on shoulder. Pain and reduced range of movement. AP and Axial views.",
+      "options": "Injury | No injury",
       "correct_answer": "No injury",
       "explanation": "Normal glenohumeral joint alignment.\nNo fracture.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q02"
     }
   },
@@ -213,9 +214,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q03_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q03_MERGED_ro.jpg",
       "question": "Fall on outstretched hand. Clavicle pain and tenderness. 2 AP views.",
+      "options": "Injury | No injury",
       "correct_answer": "No injury",
       "explanation": "Normal glenohumeral joint alignment.\nNo fracture.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q03"
     }
   },
@@ -224,9 +225,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q05_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q05_MERGED_ro.jpg",
       "question": "Injury to elbow when intoxicated. Wound to skin. AP and Lateral views.",
+      "options": "Foreign body | No foreign body",
       "correct_answer": "Foreign body",
       "explanation": "Glass foreign bodies.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q05"
     }
   },
@@ -235,9 +236,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q09_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q09_MERGED_ro.jpg",
       "question": "Hyperextension injury to middle finger. Pain and reduced movement.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Volar plate injury.\nA small fragment of cortical bone has avulsed from the base of the middle finger middle phalanx base.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q09"
     }
   },
@@ -246,9 +247,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_1_Upper_Limb__Q10_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_1_Upper_Limb__Q10_MERGED_ro.jpg",
       "question": "Trauma to shoulder. Pain and reduced movement. AP and Y-views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Posterior dislocation of the glenohumeral joint.\nAP view:The joint is widened and the humeral head is internally rotated. It appears more rounded than normal – the ‘light bulb’ sign.\nY-view:The humeral head (blue line) is posteriorly dislocated (arrow) from the glenoid of the scapula (red line).",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q10"
     }
   },
@@ -257,9 +258,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q01_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q01_MERGED_ro.jpg",
       "question": "Fall onto face. Painful left cheek area. OM and OM-30 views.",
+      "options": "Injury | No injury",
       "correct_answer": "No injury",
       "explanation": "Normal OM and OM 30 views.\nAssessment of the McGrigor-Campbell lines shows no injury.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q01"
     }
   },
@@ -268,9 +269,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q02_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q02_MERGED_ro.jpg",
       "question": "Inversion injury to ankle. Unable to bear weight. AP and lateral views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "5th metatarsal base fracture.\n5th metatarsal base fractures are occasionally seen on a lateral ankle view in patients with suspected ankle fractures.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q02"
     }
   },
@@ -279,9 +280,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q03_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q03_MERGED_ro.jpg",
       "question": "Fall on outstretched hand. Pain and restricted shoulder abduction. 2 AP clavicle views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Clavicle fracture.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q03"
     }
   },
@@ -290,9 +291,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q04_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q04_MERGED_ro.jpg",
       "question": "Fall with direct trauma to knee. Pain, swelling and reduced knee movement. AP and horizontal beam lateral views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Tibial plateau fracture with lipohaemarthrosis (fat and blood in the joint).",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q04"
     }
   },
@@ -301,9 +302,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q06_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q06_MERGED_ro.jpg",
       "question": "14-year-old boy. Fall onto elbow. Pain and reduced movement. AP and lateral views.",
+      "options": "Injury | No injury",
       "correct_answer": "No injury",
       "explanation": "Normal elbow.\nThe radial head (R), medial (internal) epicondyle (I), and olecranon (O) ossification centres are still visible – they have not yet completely fused.\nThe ossification centres of the capitulum (C), trochlea (T), and lateral epicondyle (L) have already fused.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q06"
     }
   },
@@ -312,9 +313,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q07_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q07_MERGED_ro.jpg",
       "question": "Injury to shoulder. Pain and reduced movement.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Anterior dislocation.\nThe humeral head is located anterior and inferior to the glenoid fossa of the scapula. This is the typical appearance of an anteriorly dislocated glenohumeral joint.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q07"
     }
   },
@@ -323,9 +324,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q08_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q08_MERGED_ro.jpg",
       "question": "Twisting injury to foot. Pain and inability to weight bear. DP and oblique views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Lisfranc injury.\nThe DP views shows the second metatarsal bone is not aligned with the intermediate cuneiform. A small bone fragment is seen on the lateral side of the second metatarsal base.\nLateral shift of the second metatarsal base indicates injury to the Lisfranc ligament. This injury can be disabling if not identified.\nThe oblique image shows normal alignment and no bone abnormality.",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q08"
     }
   },
@@ -334,9 +335,9 @@
       "image_target": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_clean/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q10_MERGED_base.jpg",
       "image_reference": "https://raw.githubusercontent.com/serafb/RadiologyMC-dataset/main/images-2rx_annotation/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q10_MERGED_ro.jpg",
       "question": "Injury to finger. DP and oblique views.",
+      "options": "Injury | No injury",
       "correct_answer": "Injury",
       "explanation": "Little finger metacarpophalangeal dislocation.\nLongstanding osteoarthritis of the thumb carpometacarpal joint (CMC joint).",
-      "options": "",
       "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q10"
     }
   }

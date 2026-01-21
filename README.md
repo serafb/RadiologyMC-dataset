@@ -12,11 +12,11 @@ Dataset di quiz radiologici estratto da [Radiology Masterclass](https://www.radi
 - 📄 **`tasks.json`**    File pronto per l’importazione in **Label Studio**, contenente domande, riferimenti e soluzioni per i quiz con singola radiografia.
 - 📄 **`tasks_2rx.json`**    File pronto per l’importazione in **Label Studio**, contenente domande, riferimenti e soluzioni per i quiz con doppia radiografia.
 
-### Risultati finali
+
+**Dataset esportati da Label Studio:**
 - 📁 **`labelled`**    Directory contenente i file di annotazione esportati da Label Studio.
   - 📄 ** `annotation_radiology.csv` / `.json` / `.zip`  (YOLO with img)      Annotazioni strutturate con coordinate dei **bounding box** per le immagini a singola radiografia.
   - (**TODO**)📄 ** `annotation_radiology_2rx.csv` / `.json` / `.zip`  (YOLO with img)      Annotazioni per le immagini con doppia radiografia (**in preparazione**).
-
 
 > I file contengono gli URL diretti alle immagini ospitate in questo repository. In questo modo è possibile visualizzare i dati in Label Studio istantaneamente, senza dover configurare storage locali o cloud esterni.
 

@@ -20,6 +20,10 @@ Dataset di quiz radiologici estratto da [Radiology Masterclass](https://www.radi
 
 > I dataset contengono gli URL diretti alle immagini ospitate in questo repository nelle rispettive cartelle 📁`images`. In questo modo è possibile visualizzare i dati in Label Studio istantaneamente, senza dover configurare storage locali o cloud esterni.
 
+**Label Studio labelling interface:**
+Template di esempie
+  - 📄  `labelling-interface_label-studio.txt` Template per la Labelling interface in Label Studio. Il contenuto del file deve essere copiato in `Settings` / `Labeling Interface` `(code)` del nuovo progetto creato.
+
 ## Utilizzo
 Importare uno dei seguenti file in un nuovo progetto su [Label Studio](https://labelstud.io/):
 * Per visualizzare o modificare le annotazioni esistenti, importare il file da `labelled`

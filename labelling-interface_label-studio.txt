@@ -1,0 +1,33 @@
+<View>
+  <View style="padding: 15px; background: #f8f9fa; border-radius: 8px; border: 1px solid #dee2e6; margin-bottom: 15px;">
+    <Header value="Q: $question" size="3" style="margin-bottom: 5px;"/>
+    <Text name="id" value="ID Sorgente: $id_source" style="font-size: 11px; color: #6c757d; font-family: monospace;"/>
+    
+    <View style="margin-top: 10px; padding-top: 10px; border-top: 1px dashed #ddd;">
+      <Text name="opts" value="Opzioni: $options" style="font-size: 14px; display: block; margin-bottom: 5px;"/>
+      <Text name="ans" value="Soluzione: $correct_answer" style="color: #28a745; font-weight: bold;"/>
+    </View>
+  </View>
+
+  <View style="display: flex; gap: 20px;">
+    
+    <View style="flex: 50%; border: 1px solid #dee2e6; padding: 15px; border-radius: 8px; background: #fff;">
+      <Header value="1. Soluzione" size="4" style="color: #dc3545; margin-bottom: 10px; text-align: center;"/>
+      <Image name="img_ref" value="$image_reference" pointer-events="none" zoom="true"/>
+      
+      <View style="margin-top: 15px; padding: 10px; background: #fff8e1; border-radius: 4px; border-left: 4px solid #fadb14;">
+        <Text name="exp" value="Note: $explanation" style="font-size: 13px; line-height: 1.4; color: #856404;"/>
+      </View>
+    </View>
+
+    <View style="flex: 50%; border: 1px solid #dee2e6; padding: 15px; border-radius: 8px; background: #fff;">
+      <Header value="2. Immagine" size="4" style="color: #007bff; margin-bottom: 10px; text-align: center;"/>
+    
+      <Image name="img_target" value="$image_target" zoom="true" strokeWidth="2"/>
+       <RectangleLabels name="label" toName="img_target">
+        <Label value="ROI" background="#00e700"/>
+      </RectangleLabels>
+    </View>
+
+  </View>
+</View>

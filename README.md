@@ -4,10 +4,10 @@ Dataset di quiz radiologici estratto da [Radiology Masterclass](https://www.radi
 
 ## Struttura
 - 📁 **`images_clean`**    Immagini originali dei quiz con singola radiografia per domanda.
-- 📁 **`images_annotation`**    Immagini con singola radiografia per domanda, comprensive di annotazioni grafiche.
+- 📁 **`images_annotation`**    Immagini con singola radiografia per domanda, comprensive di annotazioni grafiche originarie.
 
 - 📁 **`images-2rx_clean`**    Immagini originali dei quiz con due radiografie per domanda, unite in un’unica immagine.
-- 📁 **`images-2rx_annotation`**    Immagini con due radiografie per domanda, unite in un’unica immagine, comprensive di annotazioni grafiche.
+- 📁 **`images-2rx_annotation`**    Immagini con due radiografie per domanda, unite in un’unica immagine, comprensive di annotazioni grafiche originarie.
 
 - 📄 **`tasks.json`**    File pronto per l’importazione in **Label Studio**, contenente domande, riferimenti e soluzioni per i quiz con singola radiografia.
 - 📄 **`tasks_2rx.json`**    File pronto per l’importazione in **Label Studio**, contenente domande, riferimenti e soluzioni per i quiz con doppia radiografia.
@@ -22,12 +22,12 @@ Dataset di quiz radiologici estratto da [Radiology Masterclass](https://www.radi
 
 **Label Studio labelling interface:**
 Template di esempio
-  - 📄  `labelling-interface_label-studio.txt` Template per la Labelling interface in Label Studio. Il contenuto del file deve essere copiato in `Settings` / `Labeling Interface` `(code)` del nuovo progetto creato.
+  - 📄  `labelling-interface_label-studio.txt` Template per la `Labelling interface` in Label Studio. Il contenuto del file deve essere copiato in `Settings` / `Labeling Interface` `(code)` del nuovo progetto creato.
 
 ## Utilizzo
 Importare uno dei seguenti file in un nuovo progetto su [Label Studio](https://labelstud.io/):
-* Per visualizzare o modificare le annotazioni esistenti, importare il file da `labelled`
-* Per creare nuove annotazioni da zero, importare il file `tasks.json` o `tasks_2rx.json`.
+* Per visualizzare o modificare le annotazioni esistenti, importare il file da 📁`labelled`
+* Per creare nuove annotazioni da zero, importare il file 📄`tasks.json` o 📄`tasks_2rx.json`.
 
 ## TODO
 Non è stato ancora prodotto annotation_radiology per i quiz che presentano due radiografie per caso, unite in un’unica immagine.

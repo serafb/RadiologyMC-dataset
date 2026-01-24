@@ -1,0 +1,1945 @@
+[
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Chest_X_Ray_Quiz_2__Q04_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Chest_X_Ray_Quiz_2__Q04_MERGED_ro.jpg",
+  "question": "2 Images: Patient with lung cancer. Image 1 shows a right hilar mass. What complication has occurred at the time of image 2 which was acquired 4 months after image 1?",
+  "options": "Lung metastases | Phrenic nerve palsy | Right lower zone pneumonia | Right pleural effusion | Left pneumothorax",
+  "correct_answer": "Phrenic nerve palsy",
+  "explanation": "Image 2 shows the right hilar mass has enlarged. The right hemidiaphragm is raised indicating phrenic nerve palsy due to compression or erosion by the mass.\nThere is no visible pleural effusion or pneumothorax.",
+  "id_source": "Chest_X_Ray_Quiz_2_Q04",
+  "id": 865,
+  "label": [
+    {
+      "x": 50,
+      "y": 60,
+      "width": 26,
+      "height": 16,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 956,
+      "original_height": 472
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 117,
+  "created_at": "2026-01-23T00:19:10.370377Z",
+  "updated_at": "2026-01-23T00:19:10.370397Z",
+  "lead_time": 528.991
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Chest_X_Ray_Quiz_2__Q08_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Chest_X_Ray_Quiz_2__Q08_MERGED_ro.jpg",
+  "question": "2 IMAGES: Rapid onset shortness of breath and chest pain. A previous chest X-ray is shown for reference (image 2). Regarding image 1, which statement is FALSE?",
+  "options": "The costophrenic angles are blunt | The upper zone vessels are enlarged | The previous image is irrelevant to interpretation of this image | The image is of adequate quality | The diagnosis is consistent with heart failure",
+  "correct_answer": "The previous image is irrelevant to interpretation of this image",
+  "explanation": "The previous image (image 2) shows the heart was enlarged. The previous image is relevant to chest X-ray interpretation and should be viewed as a matter of routine whenever interpreting a chest X-ray.\nImage 1 shows classic features of severe pulmonary oedema; the upper zone vessels are enlarged indicating pulmonary venous hypertension, bilateral shadowing indicates alveolar oedema, and bilateral costophrenic blunting indicates pleural effusions.\nThe combination of severe pulmonary oedema in a patient with previously documented cardiomegaly is consistent with the diagnosis of heart failure.",
+  "id_source": "Chest_X_Ray_Quiz_2_Q08",
+  "id": 866,
+  "label": [
+    {
+      "x": 2,
+      "y": 6,
+      "width": 50,
+      "height": 85,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1047,
+      "original_height": 552
+    },
+    {
+      "x": 63,
+      "y": 5,
+      "width": 29,
+      "height": 7,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1047,
+      "original_height": 552
+    },
+    {
+      "x": 58,
+      "y": 12,
+      "width": 41,
+      "height": 82,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1047,
+      "original_height": 552
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 118,
+  "created_at": "2026-01-23T00:19:18.354667Z",
+  "updated_at": "2026-01-23T00:19:18.354690Z",
+  "lead_time": 451.227
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Chest_X_Ray_Quiz_3__Q06_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Chest_X_Ray_Quiz_3__Q06_MERGED_ro.jpg",
+  "question": "2 IMAGES: Image 1 - full-sized image. Image 2 - detail image. Patient with chest pain. Which statement is true?",
+  "options": "Chest X-rays are not required routinely in the setting of clinically suspected uncomplicated rib fractures | There is no cause of chest pain demonstrated on these images | A normal chest X-ray excludes rib fractures | This image shows blunting of the left costophrenic angle indicating a haemothorax | The patient is rotated and so the image is non-diagnostic",
+  "correct_answer": "Chest X-rays are not required routinely in the setting of clinically suspected uncomplicated rib fractures",
+  "explanation": "Chest X-rays are not required routinely in the setting of uncomplicated clinically suspected rib fractures but can be requested if there is clinical suspicion of a complication such as a pneumothorax or haemothorax.\nThe detail image shows a rib fracture on the left.\nThe costophrenic angles are well-defined indicating there is no haemothorax.\nAlthough the patient is a little rotated, a cause of chest pain – the rib fracture – is demonstrated so the image can be considered diagnostic.",
+  "id_source": "Chest_X_Ray_Quiz_3_Q06",
+  "id": 867,
+  "label": [
+    {
+      "x": 58,
+      "y": 25,
+      "width": 6,
+      "height": 14,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    },
+    {
+      "x": 81,
+      "y": 69,
+      "width": 5,
+      "height": 30,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    },
+    {
+      "x": 78,
+      "y": 58,
+      "width": 2,
+      "height": 6,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    },
+    {
+      "x": 74,
+      "y": 38,
+      "width": 6,
+      "height": 20,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    },
+    {
+      "x": 70,
+      "y": 34,
+      "width": 4,
+      "height": 15,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    },
+    {
+      "x": 64,
+      "y": 29,
+      "width": 6,
+      "height": 15,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    },
+    {
+      "x": 80,
+      "y": 48,
+      "width": 5,
+      "height": 21,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 963,
+      "original_height": 543
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 119,
+  "created_at": "2026-01-23T00:19:25.721694Z",
+  "updated_at": "2026-01-23T00:19:25.721721Z",
+  "lead_time": 657.118
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Chest_X_Ray_Quiz_4__Q06_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Chest_X_Ray_Quiz_4__Q06_MERGED_ro.jpg",
+  "question": "(2 Images: One with and one without marking.) What does the anatomical line marked on image 2 represent?",
+  "options": "The anterior junctional line | The right heart border | The right paratracheal stripe | The azygo-oesophageal line | The descending thoracic aorta",
+  "correct_answer": "The azygo-oesophageal line",
+  "explanation": "This is the azygo-oesophageal line. This line is formed by the contrast of the low-density lung at its interface with the relatively higher density soft tissues of the mediastinum formed by the vertically-orientated oesophagus and azygos vein.",
+  "id_source": "Chest_X_Ray_Quiz_4_Q06",
+  "id": 868,
+  "label": [
+    {
+      "x": 70,
+      "y": 2,
+      "width": 9,
+      "height": 80,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 426
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 120,
+  "created_at": "2026-01-23T00:19:47.508988Z",
+  "updated_at": "2026-01-23T00:19:47.509015Z",
+  "lead_time": 178.921
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/CT_Brain_Quiz_1__Q04_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/CT_Brain_Quiz_1__Q04_MERGED_ro.jpg",
+  "question": "(Pre and post contrast images): Which description most accurately describes the findings on these two images?",
+  "options": "Increased density consistent with a subdural collection | Multiple areas of enhancement due to metastases | Areas of abnormally low density with the typical distribution of a territorial infarct | Areas of abnormally low density surrounded by enhancement post IV-contrast | Increased density consistent with an acute primary intracerebral haemorrhage",
+  "correct_answer": "Areas of abnormally low density surrounded by enhancement post IV-contrast",
+  "explanation": "A very large irregularly-shaped area of abnormally low density is present in the left cerebral hemisphere. This is causing mass effect evidenced by the effacement of the sulci on this side of the brain and shift of midline structures.\nThe post-contrast image shows enhancement of brain tissue surrounding the low density area.\nThis mass lesion appears intra-axial (intracerebral) rather than extra-axial (outside the brain).\nAlthough it is possible that a metastasis has this appearance, there is only one lesion and so it is not ‘multiple’.\nThe appearances are not consistent with an acute primary intracerebral haemorrhage which would be of high density (white) on the pre-contrast image.",
+  "id_source": "CT_Brain_Quiz_1_Q04",
+  "id": 869,
+  "label": [
+    {
+      "x": 77,
+      "y": 33,
+      "width": 17,
+      "height": 43,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 903,
+      "original_height": 530
+    },
+    {
+      "x": 26,
+      "y": 34,
+      "width": 17,
+      "height": 41,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 903,
+      "original_height": 530
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 121,
+  "created_at": "2026-01-23T00:20:01.131684Z",
+  "updated_at": "2026-01-24T18:38:41.580397Z",
+  "lead_time": 202.606
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/CT_Brain_Quiz_1__Q06_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/CT_Brain_Quiz_1__Q06_MERGED_ro.jpg",
+  "question": "(Pre and post contrast CT images of the brain show cerebral metastasis): What else is present?",
+  "options": "Abnormal low density of white matter representing cerebral oedema | Areas of high density representing recent subarachnoid bleeding | Areas of high density representing recent subdural bleeding | Areas of high density representing recent intracerebral bleeding | Areas of normal intracerebral calcification",
+  "correct_answer": "Abnormal low density of white matter representing cerebral oedema",
+  "explanation": "A small rounded focus of slightly high density on the pre-contrast image enhances on the post-contrast image. The post-contrast image also shows multiple other foci of enhancement. These are typical appearances of brain metastases.\nBoth the pre and post-IV contrast images show a large area of abnormally low density within white matter due to cerebral oedema.\nAcute bleeding results in areas of high density on the pre-contrast image which would not enhance post contrast.\nThere is no intracerebral calcification visible on these CT images.",
+  "id_source": "CT_Brain_Quiz_1_Q06",
+  "id": 870,
+  "label": [
+    {
+      "x": 4,
+      "y": 40,
+      "width": 3,
+      "height": 36,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "width": 18,
+      "height": 92,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 43,
+      "y": 43,
+      "width": 2,
+      "height": 31,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 41,
+      "y": 29,
+      "width": 2,
+      "height": 51,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 37,
+      "y": 14,
+      "width": 4,
+      "height": 75,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 7,
+      "y": 15,
+      "width": 4,
+      "height": 70,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 65,
+      "y": 6,
+      "width": 4,
+      "height": 88,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 56,
+      "y": 20,
+      "width": 3,
+      "height": 62,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 69,
+      "y": 4,
+      "width": 18,
+      "height": 94,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 54,
+      "y": 43,
+      "width": 2,
+      "height": 27,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 93,
+      "y": 44,
+      "width": 2,
+      "height": 30,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 91,
+      "y": 29,
+      "width": 2,
+      "height": 51,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 87,
+      "y": 14,
+      "width": 4,
+      "height": 75,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 59,
+      "y": 9,
+      "width": 6,
+      "height": 82,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 33,
+      "y": 8,
+      "width": 4,
+      "height": 86,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "width": 4,
+      "height": 82,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 521
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 122,
+  "created_at": "2026-01-23T00:20:06.114945Z",
+  "updated_at": "2026-01-24T18:42:31.830420Z",
+  "lead_time": 1807.0799999999997
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/CT_Brain_Quiz_1__Q08_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/CT_Brain_Quiz_1__Q08_MERGED_ro.jpg",
+  "question": "CT brain on bone window settings - 2 images: Which anatomical structure is highlighted in orange on image 2?",
+  "options": "Sphenoid sinus | Ethmoid air cell | Mastoid air cell | Pituitary fossa | Frontal sinus",
+  "correct_answer": "Sphenoid sinus",
+  "explanation": "The sinuses of the skull contain air and so are completely black on CT; they have the same density as the air surrounding the head.\nThe sphenoid sinus is highlighted in orange (roll-over image). It has very variable appearance and can be split into two or more compartments.\nThe pituitary fossa (not visible) contains the pituitary gland which is of similar density to the brain.\nSome of the other sinuses and air cells of the skull are highlighted.",
+  "id_source": "CT_Brain_Quiz_1_Q08",
+  "id": 871,
+  "label": [
+    {
+      "x": 60,
+      "y": 6,
+      "width": 30,
+      "height": 40,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 499
+    },
+    {
+      "x": 57,
+      "y": 46,
+      "width": 37,
+      "height": 36,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 499
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 123,
+  "created_at": "2026-01-23T00:20:10.909922Z",
+  "updated_at": "2026-01-24T18:44:53.809174Z",
+  "lead_time": 309.76800000000003
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/CT_Brain_Quiz_2__Q08_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/CT_Brain_Quiz_2__Q08_MERGED_ro.jpg",
+  "question": "2 CT brain images, pre and post-contrast: Patient with worsening headache. Which finding is NOT present?",
+  "options": "Ventricular effacement | Sulcal effacement | Mass with central enhancement | Mass with peripheral enhancement | White matter oedema",
+  "correct_answer": "Mass with central enhancement",
+  "explanation": "A large mass in the left cerebral hemisphere is causing mass effect with effacement of the sulci and left lateral ventricle (asterisk).\nLow density surrounding the mass indicates vasogenic oedema of white matter.\nThe mass enhances peripherally but not centrally. The central portion of the mass is avascular due to cell necrosis.\nNote:Abscess is a differential diagnosis",
+  "id_source": "CT_Brain_Quiz_2_Q08",
+  "id": 872,
+  "label": [
+    {
+      "x": 33,
+      "y": 10,
+      "width": 7,
+      "height": 77,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 40,
+      "y": 21,
+      "width": 6,
+      "height": 55,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 9,
+      "y": 60,
+      "width": 7,
+      "height": 21,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 4,
+      "y": 28,
+      "width": 12,
+      "height": 32,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 6,
+      "y": 60,
+      "width": 3,
+      "height": 9,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 16,
+      "y": 5,
+      "width": 17,
+      "height": 83,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "width": 5,
+      "height": 21,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 6,
+      "y": 14,
+      "width": 5,
+      "height": 14,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 83,
+      "y": 10,
+      "width": 7,
+      "height": 77,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 90,
+      "y": 21,
+      "width": 6,
+      "height": 55,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 59,
+      "y": 60,
+      "width": 7,
+      "height": 21,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 54,
+      "y": 28,
+      "width": 12,
+      "height": 32,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 56,
+      "y": 60,
+      "width": 3,
+      "height": 9,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 66,
+      "y": 5,
+      "width": 17,
+      "height": 84,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 61,
+      "y": 7,
+      "width": 5,
+      "height": 21,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    },
+    {
+      "x": 56,
+      "y": 14,
+      "width": 5,
+      "height": 14,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 530
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 124,
+  "created_at": "2026-01-23T00:30:53.104617Z",
+  "updated_at": "2026-01-24T18:45:13.884344Z",
+  "lead_time": 674.938
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/CT_Brain_Quiz_2__Q09_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/CT_Brain_Quiz_2__Q09_MERGED_ro.jpg",
+  "question": "2 CT brain images, brain and bone window settings:  What do these images show?",
+  "options": "Abnormal brain not compatible with life | Severe skull fracturing | Multiple areas of extra-axial haemorrhage | Movement artifact | Calcification of scalp soft tissues",
+  "correct_answer": "Movement artifact",
+  "explanation": "This elderly patient presented with confusion and he could not co-operate with instructions to keep still in the CT scanner.\nThe images have been acquired while the patient is shaking his head. Image quality is non-diagnostic.\nA repeat scan later showed no acute abnormality. The confusion was due to a urinary infection, a much more common cause of confusion in elderly patients than intracranial pathology.",
+  "id_source": "CT_Brain_Quiz_2_Q09",
+  "id": 873,
+  "label": [
+    {
+      "x": 33,
+      "y": 10,
+      "width": 7,
+      "height": 77,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 40,
+      "y": 21,
+      "width": 6,
+      "height": 55,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 6,
+      "y": 60,
+      "width": 10,
+      "height": 27,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 4,
+      "y": 28,
+      "width": 12,
+      "height": 32,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "width": 17,
+      "height": 83,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 10,
+      "y": 19,
+      "width": 6,
+      "height": 9,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 83,
+      "y": 10,
+      "width": 7,
+      "height": 77,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 90,
+      "y": 18,
+      "width": 7,
+      "height": 63,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 52,
+      "y": 28,
+      "width": 14,
+      "height": 61,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 66,
+      "y": 8,
+      "width": 17,
+      "height": 85,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    },
+    {
+      "x": 56,
+      "y": 19,
+      "width": 10,
+      "height": 9,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 532
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 125,
+  "created_at": "2026-01-23T00:38:42.003266Z",
+  "updated_at": "2026-01-24T18:45:42.899170Z",
+  "lead_time": 458.94199999999995
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/CT_Brain_Quiz_2__Q10_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/CT_Brain_Quiz_2__Q10_MERGED_ro.jpg",
+  "question": "2 CT brain images, pre and post-contrast: Patient with worsening postural headache and cerebellar signs. What is the most likely diagnosis?",
+  "options": "Subdural collection | Subarachnoid haemorrhage | Intraventricular haemorrhage | Extradural haematoma | Posterior fossa meningioma",
+  "correct_answer": "Posterior fossa meningioma",
+  "explanation": "These are typical appearances of a meningioma.\nThis enhancing mass arises from the dura mater; in this case from the tentorium cerebelli, a sheet of dura mater which separates the posterior fossa structures from the rest of the brain.\nThe mass compresses the adjacent cerebellum.",
+  "id_source": "CT_Brain_Quiz_2_Q10",
+  "id": 874,
+  "label": [
+    {
+      "x": 54,
+      "y": 50,
+      "width": 40,
+      "height": 30,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 565
+    },
+    {
+      "x": 5,
+      "y": 50,
+      "width": 37,
+      "height": 30,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 565
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 126,
+  "created_at": "2026-01-23T00:43:17.123405Z",
+  "updated_at": "2026-01-23T00:43:17.123436Z",
+  "lead_time": 287.117
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q01_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q01_MERGED_ro.jpg",
+  "question": "Twisted ankle. Pain medially and laterally. AP and lateral views.",
+  "options": "Injury | No injury",
+  "correct_answer": "No injury",
+  "explanation": "No bone injury. Alignment of all the joints   is normal. No soft tissue swelling.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q01",
+  "id": 875,
+  "label": [
+    {
+      "x": 60,
+      "y": 18,
+      "width": 23,
+      "height": 55,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1024,
+      "original_height": 603
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "width": 34,
+      "height": 60,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1024,
+      "original_height": 603
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 127,
+  "created_at": "2026-01-23T00:44:51.261171Z",
+  "updated_at": "2026-01-23T00:44:51.261192Z",
+  "lead_time": 128.24599999999998
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q02_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q02_MERGED_ro.jpg",
+  "question": "Twisting injury. Painful foot. DP and oblique views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Fracture of the fifth metatarsal shaft.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q02",
+  "id": 876,
+  "label": [
+    {
+      "x": 65,
+      "y": 47,
+      "width": 7,
+      "height": 7,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 933,
+      "original_height": 827
+    },
+    {
+      "x": 11,
+      "y": 53,
+      "width": 7,
+      "height": 7,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 933,
+      "original_height": 827
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 128,
+  "created_at": "2026-01-23T00:45:22.907710Z",
+  "updated_at": "2026-01-23T00:45:22.907730Z",
+  "lead_time": 57.57
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q04_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q04_MERGED_ro.jpg",
+  "question": "Hyperextension injury to knee. Pain and tenderness medially. AP and lateral views.",
+  "options": "Injury | No Injury",
+  "correct_answer": "No Injury",
+  "explanation": "No fracture. Normal soft tissues. Normal knee joint alignment.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q04",
+  "id": 877,
+  "label": [
+    {
+      "x": 5,
+      "y": 15,
+      "width": 33,
+      "height": 72,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1036,
+      "original_height": 459
+    },
+    {
+      "x": 54,
+      "y": 5,
+      "width": 40,
+      "height": 74,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1036,
+      "original_height": 459
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 129,
+  "created_at": "2026-01-24T18:47:50.817242Z",
+  "updated_at": "2026-01-24T18:47:50.817264Z",
+  "lead_time": 114.30000000000001
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q06_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q06_MERGED_ro.jpg",
+  "question": "Direct trauma to toes. Pain and tenderness. DP and oblique views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Transverse fracture of the fourth toe proximal phalanx with minor valgus angulation.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q06",
+  "id": 878,
+  "label": [
+    {
+      "x": 75,
+      "y": 38,
+      "width": 9,
+      "height": 13,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1063,
+      "original_height": 643
+    },
+    {
+      "x": 25,
+      "y": 60,
+      "width": 13,
+      "height": 24,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1063,
+      "original_height": 643
+    },
+    {
+      "x": 79,
+      "y": 51,
+      "width": 10,
+      "height": 19,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1063,
+      "original_height": 643
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 130,
+  "created_at": "2026-01-24T18:53:27.605696Z",
+  "updated_at": "2026-01-24T18:53:27.605717Z",
+  "lead_time": 399.586
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q07_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q07_MERGED_ro.jpg",
+  "question": "Direct trauma to the lateral side of the knee.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Subtle tibial fracture with lipohaemarthorsis",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q07",
+  "id": 879,
+  "label": [
+    {
+      "x": 16,
+      "y": 50,
+      "width": 8,
+      "height": 28,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1221,
+      "original_height": 574
+    },
+    {
+      "x": 47,
+      "y": 6,
+      "width": 45,
+      "height": 70,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1221,
+      "original_height": 574
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 131,
+  "created_at": "2026-01-24T18:59:54.650485Z",
+  "updated_at": "2026-01-24T18:59:54.650506Z",
+  "lead_time": 421.043
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q08_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q08_MERGED_ro.jpg",
+  "question": "Direct trauma to foot. Painful metatarsals. DP and oblique images.",
+  "options": "Injury | No injury",
+  "correct_answer": "No injury",
+  "explanation": "Normal 5th metatarsal apophysis.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q08",
+  "id": 880,
+  "label": [
+    {
+      "x": 82,
+      "y": 68,
+      "width": 7,
+      "height": 9,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 948,
+      "original_height": 689
+    },
+    {
+      "x": 33,
+      "y": 68,
+      "width": 7,
+      "height": 9,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 948,
+      "original_height": 689
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 132,
+  "created_at": "2026-01-24T19:01:10.390878Z",
+  "updated_at": "2026-01-24T19:01:10.390899Z",
+  "lead_time": 108.006
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q10_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Lower_Limb__Q10_MERGED_ro.jpg",
+  "question": "Dropped heavy weight on foot. Painful foot. Tender metatarsals.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Break in the cortex of the fourth metatarsal distally.\nThe fracture is more easily seen on the DP view and is barely visible on the oblique image.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Lower_Limb_Q10",
+  "id": 881,
+  "label": [
+    {
+      "x": 67,
+      "y": 46,
+      "width": 6,
+      "height": 14,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 529
+    },
+    {
+      "x": 14,
+      "y": 52,
+      "width": 6,
+      "height": 15,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 529
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 133,
+  "created_at": "2026-01-24T19:01:40.861924Z",
+  "updated_at": "2026-01-24T19:01:40.861946Z",
+  "lead_time": 78.721
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q01_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q01_MERGED_ro.jpg",
+  "question": "Punch injury to hand.  DP and Oblique views.",
+  "options": "No injury | Injury",
+  "correct_answer": "Injury",
+  "explanation": "Oblique fracture of the little finger metacarpal.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q01",
+  "id": 882,
+  "label": [
+    {
+      "x": 13,
+      "y": 63,
+      "width": 6,
+      "height": 5,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 916,
+      "original_height": 633
+    },
+    {
+      "x": 62,
+      "y": 56,
+      "width": 7,
+      "height": 17,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 916,
+      "original_height": 633
+    },
+    {
+      "x": 12,
+      "y": 55,
+      "width": 5,
+      "height": 8,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 916,
+      "original_height": 633
+    },
+    {
+      "x": 14,
+      "y": 68,
+      "width": 6,
+      "height": 7,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 916,
+      "original_height": 633
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 134,
+  "created_at": "2026-01-24T19:05:41.445804Z",
+  "updated_at": "2026-01-24T19:06:59.549411Z",
+  "lead_time": 327.261
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q02_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q02_MERGED_ro.jpg",
+  "question": "Fall on shoulder. Pain and reduced range of movement. AP and Axial views.",
+  "options": "Injury | No injury",
+  "correct_answer": "No injury",
+  "explanation": "Normal glenohumeral joint alignment.\nNo fracture.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q02",
+  "id": 883,
+  "label": [
+    {
+      "x": 55,
+      "y": 12,
+      "width": 36,
+      "height": 67,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 982,
+      "original_height": 439
+    },
+    {
+      "x": 5,
+      "y": 13,
+      "width": 41,
+      "height": 70,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 982,
+      "original_height": 439
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 135,
+  "created_at": "2026-01-24T19:08:05.965804Z",
+  "updated_at": "2026-01-24T19:08:05.965828Z",
+  "lead_time": 124.84200000000001
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q03_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q03_MERGED_ro.jpg",
+  "question": "Fall on outstretched hand. Clavicle pain and tenderness. 2 AP views.",
+  "options": "Injury | No injury",
+  "correct_answer": "No injury",
+  "explanation": "Normal glenohumeral joint alignment.\nNo fracture.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q03",
+  "id": 884,
+  "label": [
+    {
+      "x": 52,
+      "y": 45,
+      "width": 15,
+      "height": 34,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 237
+    },
+    {
+      "x": 28,
+      "y": 20,
+      "width": 18,
+      "height": 29,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 237
+    },
+    {
+      "x": 20,
+      "y": 35,
+      "width": 8,
+      "height": 29,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 237
+    },
+    {
+      "x": 4,
+      "y": 44,
+      "width": 16,
+      "height": 31,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 237
+    },
+    {
+      "x": 67,
+      "y": 49,
+      "width": 8,
+      "height": 20,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 237
+    },
+    {
+      "x": 75,
+      "y": 41,
+      "width": 20,
+      "height": 26,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 900,
+      "original_height": 237
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 136,
+  "created_at": "2026-01-24T19:13:15.942656Z",
+  "updated_at": "2026-01-24T19:13:15.942701Z",
+  "lead_time": 328.653
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q05_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q05_MERGED_ro.jpg",
+  "question": "Injury to elbow when intoxicated. Wound to skin. AP and Lateral views.",
+  "options": "Foreign body | No foreign body",
+  "correct_answer": "Foreign body",
+  "explanation": "Glass foreign bodies.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q05",
+  "id": 885,
+  "label": [
+    {
+      "x": 71,
+      "y": 55,
+      "width": 5,
+      "height": 10,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 939,
+      "original_height": 462
+    },
+    {
+      "x": 33,
+      "y": 60,
+      "width": 7,
+      "height": 12,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 939,
+      "original_height": 462
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 137,
+  "created_at": "2026-01-24T19:14:57.699277Z",
+  "updated_at": "2026-01-24T19:14:57.699298Z",
+  "lead_time": 106.69
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q09_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q09_MERGED_ro.jpg",
+  "question": "Hyperextension injury to middle finger. Pain and reduced movement.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Volar plate injury.\nA small fragment of cortical bone has avulsed from the base of the middle finger middle phalanx base.",
+  "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q09",
+  "id": 886,
+  "label": [
+    {
+      "x": 68,
+      "y": 40,
+      "width": 11,
+      "height": 10,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 949,
+      "original_height": 795
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 138,
+  "created_at": "2026-01-24T19:15:19.903650Z",
+  "updated_at": "2026-01-24T19:18:05.464353Z",
+  "lead_time": 203.904
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q10_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_1_Upper_Limb__Q10_MERGED_ro.jpg",
+  "question": "Trauma to shoulder. Pain and reduced movement. AP and Y-views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Posterior dislocation of the glenohumeral joint.\nAP view:The joint is widened and the humeral head is internally rotated. It appears more rounded than normal – the ‘light bulb’ sign.\nY-view:The humeral head (blue line) is posteriorly dislocated (arrow) from the glenoid of the scapula (red line).",
+  "id_source": "Trauma_X_Ray_Quiz_1_Upper_Limb_Q10",
+  "id": 887,
+  "label": [
+    {
+      "x": 55,
+      "y": 23,
+      "width": 31,
+      "height": 49,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 945,
+      "original_height": 501
+    },
+    {
+      "x": 6,
+      "y": 26,
+      "width": 23,
+      "height": 46,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 945,
+      "original_height": 501
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 139,
+  "created_at": "2026-01-24T19:18:37.509902Z",
+  "updated_at": "2026-01-24T19:18:37.509927Z",
+  "lead_time": 50.487
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q01_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q01_MERGED_ro.jpg",
+  "question": "Fall onto face. Painful left cheek area. OM and OM-30 views.",
+  "options": "Injury | No injury",
+  "correct_answer": "No injury",
+  "explanation": "Normal OM and OM 30 views.\nAssessment of the McGrigor-Campbell lines shows no injury.",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q01",
+  "id": 888,
+  "label": [
+    {
+      "x": 1,
+      "y": 11,
+      "width": 48,
+      "height": 85,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 928,
+      "original_height": 405
+    },
+    {
+      "x": 53,
+      "y": 26,
+      "width": 44,
+      "height": 60,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 928,
+      "original_height": 405
+    },
+    {
+      "x": 57,
+      "y": 11,
+      "width": 36,
+      "height": 15,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 928,
+      "original_height": 405
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 140,
+  "created_at": "2026-01-24T19:30:12.411944Z",
+  "updated_at": "2026-01-24T19:32:16.691420Z",
+  "lead_time": 821.3879999999999
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q02_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q02_MERGED_ro.jpg",
+  "question": "Inversion injury to ankle. Unable to bear weight. AP and lateral views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "5th metatarsal base fracture.\n5th metatarsal base fractures are occasionally seen on a lateral ankle view in patients with suspected ankle fractures.",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q02",
+  "id": 889,
+  "label": [
+    {
+      "x": 85,
+      "y": 71,
+      "width": 8,
+      "height": 11,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 933,
+      "original_height": 556
+    },
+    {
+      "x": 30,
+      "y": 83,
+      "width": 7,
+      "height": 8,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 933,
+      "original_height": 556
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 141,
+  "created_at": "2026-01-24T19:32:49.769880Z",
+  "updated_at": "2026-01-24T19:33:02.586238Z",
+  "lead_time": 63.178
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q03_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q03_MERGED_ro.jpg",
+  "question": "Fall on outstretched hand. Pain and restricted shoulder abduction. 2 AP clavicle views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Clavicle fracture.",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q03",
+  "id": 890,
+  "label": [
+    {
+      "x": 75,
+      "y": 28,
+      "width": 11,
+      "height": 20,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "width": 8,
+      "height": 25,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    },
+    {
+      "x": 62,
+      "y": 18,
+      "width": 5,
+      "height": 17,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    },
+    {
+      "x": 20,
+      "y": 23,
+      "width": 13,
+      "height": 16,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    },
+    {
+      "x": 52,
+      "y": 19,
+      "width": 10,
+      "height": 21,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    },
+    {
+      "x": 9,
+      "y": 21,
+      "width": 11,
+      "height": 16,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    },
+    {
+      "x": 67,
+      "y": 21,
+      "width": 8,
+      "height": 17,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 935,
+      "original_height": 300
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 142,
+  "created_at": "2026-01-24T19:39:41.399948Z",
+  "updated_at": "2026-01-24T19:39:41.399974Z",
+  "lead_time": 416.47700000000003
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q04_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q04_MERGED_ro.jpg",
+  "question": "Fall with direct trauma to knee. Pain, swelling and reduced knee movement. AP and horizontal beam lateral views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Tibial plateau fracture with lipohaemarthrosis (fat and blood in the joint).",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q04",
+  "id": 891,
+  "label": [
+    {
+      "x": 18,
+      "y": 48,
+      "width": 9,
+      "height": 35,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1250,
+      "original_height": 546
+    },
+    {
+      "x": 75,
+      "y": 11,
+      "width": 16,
+      "height": 57,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1250,
+      "original_height": 546
+    },
+    {
+      "x": 45,
+      "y": 26,
+      "width": 12,
+      "height": 61,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1250,
+      "original_height": 546
+    },
+    {
+      "x": 57,
+      "y": 14,
+      "width": 18,
+      "height": 67,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 1250,
+      "original_height": 546
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 143,
+  "created_at": "2026-01-24T19:41:04.322015Z",
+  "updated_at": "2026-01-24T19:48:06.666164Z",
+  "lead_time": 334.272
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q06_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q06_MERGED_ro.jpg",
+  "question": "14-year-old boy. Fall onto elbow. Pain and reduced movement. AP and lateral views.",
+  "options": "Injury | No injury",
+  "correct_answer": "No injury",
+  "explanation": "Normal elbow.\nThe radial head (R), medial (internal) epicondyle (I), and olecranon (O) ossification centres are still visible – they have not yet completely fused.\nThe ossification centres of the capitulum (C), trochlea (T), and lateral epicondyle (L) have already fused.",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q06",
+  "id": 892,
+  "label": [
+    {
+      "x": 54,
+      "y": 49,
+      "width": 25,
+      "height": 43,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 989,
+      "original_height": 539
+    },
+    {
+      "x": 12,
+      "y": 28,
+      "width": 28,
+      "height": 44,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 989,
+      "original_height": 539
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 144,
+  "created_at": "2026-01-24T19:41:44.014430Z",
+  "updated_at": "2026-01-24T19:42:11.171537Z",
+  "lead_time": 87.074
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q07_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q07_MERGED_ro.jpg",
+  "question": "Injury to shoulder. Pain and reduced movement.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Anterior dislocation.\nThe humeral head is located anterior and inferior to the glenoid fossa of the scapula. This is the typical appearance of an anteriorly dislocated glenohumeral joint.",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q07",
+  "id": 893,
+  "label": [
+    {
+      "x": 68,
+      "y": 17,
+      "width": 23,
+      "height": 48,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 925,
+      "original_height": 483
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "width": 29,
+      "height": 51,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 925,
+      "original_height": 483
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 145,
+  "created_at": "2026-01-24T19:43:13.324828Z",
+  "updated_at": "2026-01-24T19:43:13.324852Z",
+  "lead_time": 130.88299999999998
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q08_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q08_MERGED_ro.jpg",
+  "question": "Twisting injury to foot. Pain and inability to weight bear. DP and oblique views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Lisfranc injury.\nThe DP views shows the second metatarsal bone is not aligned with the intermediate cuneiform. A small bone fragment is seen on the lateral side of the second metatarsal base.\nLateral shift of the second metatarsal base indicates injury to the Lisfranc ligament. This injury can be disabling if not identified.\nThe oblique image shows normal alignment and no bone abnormality.",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q08",
+  "id": 894,
+  "label": [
+    {
+      "x": 16,
+      "y": 49,
+      "width": 6,
+      "height": 16,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 924,
+      "original_height": 744
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 146,
+  "created_at": "2026-01-24T19:44:12.623116Z",
+  "updated_at": "2026-01-24T19:44:12.623142Z",
+  "lead_time": 87.471
+},
+{
+  "image_target": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_clean\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q10_MERGED_base.jpg",
+  "image_reference": "https:\/\/raw.githubusercontent.com\/serafb\/RadiologyMC-dataset\/main\/images-2rx_annotation\/Trauma_X_Ray_Quiz_4_Whole_Skeleton__Q10_MERGED_ro.jpg",
+  "question": "Injury to finger. DP and oblique views.",
+  "options": "Injury | No injury",
+  "correct_answer": "Injury",
+  "explanation": "Little finger metacarpophalangeal dislocation.\nLongstanding osteoarthritis of the thumb carpometacarpal joint (CMC joint).",
+  "id_source": "Trauma_X_Ray_Quiz_4_Whole_Skeleton_Q10",
+  "id": 895,
+  "label": [
+    {
+      "x": 37,
+      "y": 51,
+      "width": 7,
+      "height": 11,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 915,
+      "original_height": 576
+    },
+    {
+      "x": 71,
+      "y": 83,
+      "width": 8,
+      "height": 11,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 915,
+      "original_height": 576
+    },
+    {
+      "x": 87,
+      "y": 43,
+      "width": 9,
+      "height": 12,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 915,
+      "original_height": 576
+    },
+    {
+      "x": 21,
+      "y": 85,
+      "width": 7,
+      "height": 11,
+      "rotation": 0,
+      "rectanglelabels": [
+        "ROI"
+      ],
+      "original_width": 915,
+      "original_height": 576
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 147,
+  "created_at": "2026-01-24T19:45:00.714457Z",
+  "updated_at": "2026-01-24T19:45:14.700527Z",
+  "lead_time": 121.855
+}
+]
